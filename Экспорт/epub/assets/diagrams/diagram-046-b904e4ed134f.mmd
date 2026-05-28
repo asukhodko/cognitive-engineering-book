@@ -1,0 +1,10 @@
+flowchart LR
+    PERSON["Человек: мотивы, опыт, состояние"] --> TASK["Задача: ценность, сложность, смысл"]
+    TASK --> CONDITIONS["Среда: автономия, ресурсы, справедливость"]
+    CONDITIONS --> ACTION["Действие или избегание"]
+    ACTION --> FEEDBACK["Обратная связь и признание"]
+    FEEDBACK --> EXPERIENCE["Опыт: получилось, не получилось, было ли мое"]
+    EXPERIENCE --> PERSON
+
+    STATE["Перегруз, недогруз, восстановление"] --> PERSON
+    CONDITIONS --> STATE

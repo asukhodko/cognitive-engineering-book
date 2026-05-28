@@ -1,0 +1,12 @@
+{
+  "executablePath": "/home/asukh/.cache/puppeteer/chrome-headless-shell/linux-148.0.7778.97/chrome-headless-shell-linux64/chrome-headless-shell",
+  "args": [
+    "--no-sandbox",
+    "--disable-setuid-sandbox",
+    "--no-zygote",
+    "--single-process",
+    "--disable-dev-shm-usage",
+    "--disable-gpu",
+    "--user-data-dir=/tmp/cogeng-epub-chrome-profile"
+  ]
+}

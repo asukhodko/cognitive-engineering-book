@@ -1,0 +1,9 @@
+flowchart LR
+    TASK["Важная задача"] --> APPRAISAL["Оценка входа"]
+    APPRAISAL --> COST["Цена / угроза / туман / низкая управляемость"]
+    COST --> STATE["Неприятное состояние"]
+    STATE --> ESCAPE["Уход или замещающее действие"]
+    ESCAPE --> RELIEF["Краткое облегчение"]
+    RELIEF --> LEARN["Уход закрепляется"]
+    LEARN --> FUTURE["Следующий вход дороже"]
+    FUTURE --> APPRAISAL

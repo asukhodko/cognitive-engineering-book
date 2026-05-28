@@ -1,0 +1,9 @@
+flowchart LR
+    HARD["Сопротивление"] --> CONTACT["Удержание контакта"]
+    CONTACT --> STEP["Посильный шаг"]
+    STEP --> FEEDBACK["Обратная связь"]
+    FEEDBACK --> ADJUST["Корректировка"]
+    ADJUST --> TRACE["След роста"]
+    TRACE --> EFFICACY["Рост самоэффективности"]
+    EFFICACY --> NEXT["Следующая трудность кажется управляемее"]
+    NEXT --> HARD

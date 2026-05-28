@@ -1,0 +1,139 @@
+@namespace epub "http://www.idpf.org/2007/ops";
+
+html {
+  hyphens: auto;
+}
+
+body {
+  color: #151515;
+  font-family: "Noto Serif", "DejaVu Serif", serif;
+  line-height: 1.48;
+  margin: 0;
+  padding: 0;
+}
+
+h1,
+h2,
+h3,
+h4 {
+  color: #111827;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+  font-weight: 700;
+  hyphens: none;
+  line-height: 1.2;
+  page-break-after: avoid;
+}
+
+h1 {
+  font-size: 1.65em;
+  margin: 0 0 1.2em;
+  page-break-before: always;
+}
+
+h1:first-child {
+  page-break-before: auto;
+}
+
+h2 {
+  font-size: 1.32em;
+  margin: 1.65em 0 0.7em;
+}
+
+h3 {
+  font-size: 1.12em;
+  margin: 1.35em 0 0.55em;
+}
+
+p {
+  margin: 0 0 0.82em;
+  widows: 2;
+  orphans: 2;
+}
+
+a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+blockquote {
+  border-left: 0.18em solid #9ca3af;
+  color: #374151;
+  margin: 1em 0;
+  padding: 0.15em 0 0.15em 0.9em;
+}
+
+code {
+  font-family: "Noto Sans Mono", "DejaVu Sans Mono", monospace;
+  font-size: 0.9em;
+}
+
+pre {
+  background: #f6f7f9;
+  border: 1px solid #e5e7eb;
+  border-radius: 0.25em;
+  font-family: "Noto Sans Mono", "DejaVu Sans Mono", monospace;
+  font-size: 0.82em;
+  line-height: 1.35;
+  margin: 1em 0;
+  padding: 0.75em;
+  white-space: pre-wrap;
+}
+
+table {
+  border-collapse: collapse;
+  font-size: 0.82em;
+  line-height: 1.32;
+  margin: 1em 0;
+  page-break-inside: avoid;
+  width: 100%;
+}
+
+th,
+td {
+  border: 1px solid #d1d5db;
+  padding: 0.42em 0.5em;
+  vertical-align: top;
+  word-break: normal;
+  overflow-wrap: anywhere;
+}
+
+th {
+  background: #f3f4f6;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+  font-weight: 700;
+}
+
+figure {
+  margin: 1.25em 0;
+  page-break-inside: avoid;
+  text-align: center;
+}
+
+figcaption {
+  color: #4b5563;
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+  font-size: 0.82em;
+  margin-top: 0.45em;
+}
+
+img {
+  height: auto;
+  max-width: 100%;
+}
+
+img.diagram {
+  display: block;
+  margin: 0.7em auto 1em;
+  max-height: 92vh;
+}
+
+hr {
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+  margin: 2em 0;
+}
+
+nav#toc,
+nav[epub|type~="toc"] {
+  font-family: "Noto Sans", "DejaVu Sans", sans-serif;
+}

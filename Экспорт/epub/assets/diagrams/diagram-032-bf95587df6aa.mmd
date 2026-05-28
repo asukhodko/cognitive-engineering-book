@@ -1,0 +1,8 @@
+flowchart LR
+    FLOOR["Ресурсный пол"] --> ENTRY["Защищенный вход"]
+    ENTRY --> FLOW["Рабочий поток"]
+    FLOW --> SHIFT["Видимый сдвиг"]
+    SHIFT --> POINT["Контрольная точка"]
+    POINT --> RECOVERY["Восстановление"]
+    RECOVERY --> NEXT["Следующий вход дешевле"]
+    NEXT --> ENTRY

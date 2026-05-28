@@ -1,0 +1,24 @@
+flowchart TD
+    TASK["Задача и среда"] --> CIRCUITS["Контуры действия"]
+    BODY["Тело и состояние"] --> CIRCUITS
+    HISTORY["История обучения"] --> CIRCUITS
+
+    MOD["Медиаторы и гормоны"] --> GAIN["Чувствительность к сигналам"]
+    MOD --> THRESHOLD["Порог запуска действия"]
+    MOD --> LEARNING["Обновление прогноза и обучение"]
+    MOD --> AROUSAL["Бодрствование и готовность"]
+    MOD --> INHIBITION["Торможение и фильтрация"]
+    MOD --> MOBILIZATION["Мобилизация и цена состояния"]
+    MOD --> SOCIAL["Социальная значимость"]
+
+    GAIN --> CIRCUITS
+    THRESHOLD --> CIRCUITS
+    LEARNING --> CIRCUITS
+    AROUSAL --> CIRCUITS
+    INHIBITION --> CIRCUITS
+    MOBILIZATION --> CIRCUITS
+    SOCIAL --> CIRCUITS
+
+    CIRCUITS --> POLICY["Политика действия"]
+    POLICY --> FEEDBACK["Обратная связь"]
+    FEEDBACK --> HISTORY

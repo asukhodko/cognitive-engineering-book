@@ -1,0 +1,8 @@
+flowchart LR
+    MANY["Много активных треков"] --> SWITCH["Частые переключения"]
+    SWITCH --> SHALLOW["Мелкие входы"]
+    SHALLOW --> NOSLICE["Нет среза продвижения"]
+    NOSLICE --> COLD["Контекст холодеет"]
+    COLD --> AGING["Задачи стареют"]
+    AGING --> ANXIETY["Тревога и срочность растут"]
+    ANXIETY --> SWITCH

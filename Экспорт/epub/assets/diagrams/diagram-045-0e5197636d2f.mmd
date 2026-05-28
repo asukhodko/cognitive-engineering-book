@@ -1,0 +1,13 @@
+flowchart LR
+    GOAL["Ценность и цель"] --> TASK["Постановка задачи"]
+    TASK --> AUTONOMY["Границы автономии"]
+    AUTONOMY --> WORK["Работа команды"]
+    WORK --> FEEDBACK["Обратная связь и метрики"]
+    FEEDBACK --> LEARN["Корректировка и обучение"]
+    LEARN --> RESULT["Устойчивый результат"]
+    RESULT --> GOAL
+
+    TASK --> WIP["Видимый WIP"]
+    WIP --> WORK
+    WORK --> SAFETY["Безопасность сообщать о рисках"]
+    SAFETY --> FEEDBACK

@@ -1,0 +1,444 @@
+{
+  "book": "Когнитивное инженерство",
+  "identifier": "urn:uuid:b7028f3f-b0f1-5240-a813-6145deb5987b",
+  "reader_edition": "Экспорт/Когнитивное инженерство - reader edition.md",
+  "epub_source": "Экспорт/epub/Когнитивное инженерство - epub source.md",
+  "epub": "Экспорт/epub/Когнитивное инженерство.epub",
+  "diagram_count": 54,
+  "mmdc": "/home/asukh/.nvm/versions/node/v22.22.0/bin/mmdc",
+  "chrome": "/home/asukh/.cache/puppeteer/chrome-headless-shell/linux-148.0.7778.97/chrome-headless-shell-linux64/chrome-headless-shell",
+  "diagrams": [
+    {
+      "index": 1,
+      "caption": "Диаграмма 1. Глава 1. Проблема: человек теряет не только время, но и состояние мысли",
+      "source": "assets/diagrams/diagram-001-4668608284c9.mmd",
+      "image": "assets/diagrams/diagram-001-4668608284c9.png",
+      "sha": "4668608284c9",
+      "rendered": false
+    },
+    {
+      "index": 2,
+      "caption": "Диаграмма 2. Глава 2. Что такое когнитивное инженерство",
+      "source": "assets/diagrams/diagram-002-1d371909dbd2.mmd",
+      "image": "assets/diagrams/diagram-002-1d371909dbd2.png",
+      "sha": "1d371909dbd2",
+      "rendered": false
+    },
+    {
+      "index": 3,
+      "caption": "Диаграмма 3. Глава 3. Минимальная модель человека как работающей системы",
+      "source": "assets/diagrams/diagram-003-10ad538eb00a.mmd",
+      "image": "assets/diagrams/diagram-003-10ad538eb00a.png",
+      "sha": "10ad538eb00a",
+      "rendered": false
+    },
+    {
+      "index": 4,
+      "caption": "Диаграмма 4. Глава 3. Минимальная модель человека как работающей системы (2)",
+      "source": "assets/diagrams/diagram-004-92de8205a850.mmd",
+      "image": "assets/diagrams/diagram-004-92de8205a850.png",
+      "sha": "92de8205a850",
+      "rendered": false
+    },
+    {
+      "index": 5,
+      "caption": "Диаграмма 5. Глава 4. Контекст задачи: что нужно вынести из головы",
+      "source": "assets/diagrams/diagram-005-918b4a592fc7.mmd",
+      "image": "assets/diagrams/diagram-005-918b4a592fc7.png",
+      "sha": "918b4a592fc7",
+      "rendered": false
+    },
+    {
+      "index": 6,
+      "caption": "Диаграмма 6. Глава 5. Рабочий журнал как внешний контур мышления",
+      "source": "assets/diagrams/diagram-006-72e1d72ec2d4.mmd",
+      "image": "assets/diagrams/diagram-006-72e1d72ec2d4.png",
+      "sha": "72e1d72ec2d4",
+      "rendered": false
+    },
+    {
+      "index": 7,
+      "caption": "Диаграмма 7. Глава 5. Рабочий журнал как внешний контур мышления (2)",
+      "source": "assets/diagrams/diagram-007-b8d2cc859920.mmd",
+      "image": "assets/diagrams/diagram-007-b8d2cc859920.png",
+      "sha": "b8d2cc859920",
+      "rendered": false
+    },
+    {
+      "index": 8,
+      "caption": "Диаграмма 8. Рабочий журнал: объект остается в промежуточном состоянии",
+      "source": "assets/diagrams/diagram-008-07cd81c73f9b.mmd",
+      "image": "assets/diagrams/diagram-008-07cd81c73f9b.png",
+      "sha": "07cd81c73f9b",
+      "rendered": false
+    },
+    {
+      "index": 9,
+      "caption": "Диаграмма 9. Глава 6. Ритуалы входа и выхода",
+      "source": "assets/diagrams/diagram-009-3b3873fc4917.mmd",
+      "image": "assets/diagrams/diagram-009-3b3873fc4917.png",
+      "sha": "3b3873fc4917",
+      "rendered": false
+    },
+    {
+      "index": 10,
+      "caption": "Диаграмма 10. Глава 6. Ритуалы входа и выхода (2)",
+      "source": "assets/diagrams/diagram-010-c892f743f4ad.mmd",
+      "image": "assets/diagrams/diagram-010-c892f743f4ad.png",
+      "sha": "c892f743f4ad",
+      "rendered": false
+    },
+    {
+      "index": 11,
+      "caption": "Диаграмма 11. Глава 7. Мотивация — это не желание",
+      "source": "assets/diagrams/diagram-011-e735e6698940.mmd",
+      "image": "assets/diagrams/diagram-011-e735e6698940.png",
+      "sha": "e735e6698940",
+      "rendered": false
+    },
+    {
+      "index": 12,
+      "caption": "Диаграмма 12. Глава 8. Четыре области мотивации",
+      "source": "assets/diagrams/diagram-012-0c0c777b218b.mmd",
+      "image": "assets/diagrams/diagram-012-0c0c777b218b.png",
+      "sha": "0c0c777b218b",
+      "rendered": false
+    },
+    {
+      "index": 13,
+      "caption": "Диаграмма 13. Глава 9. Приближение и избегание",
+      "source": "assets/diagrams/diagram-013-6b2beca963a0.mmd",
+      "image": "assets/diagrams/diagram-013-6b2beca963a0.png",
+      "sha": "6b2beca963a0",
+      "rendered": false
+    },
+    {
+      "index": 14,
+      "caption": "Диаграмма 14. Глава 9. Приближение и избегание (2)",
+      "source": "assets/diagrams/diagram-014-6bf28679529d.mmd",
+      "image": "assets/diagrams/diagram-014-6bf28679529d.png",
+      "sha": "6bf28679529d",
+      "rendered": false
+    },
+    {
+      "index": 15,
+      "caption": "Диаграмма 15. Глава 9. Приближение и избегание (3)",
+      "source": "assets/diagrams/diagram-015-811bbdf7a9c2.mmd",
+      "image": "assets/diagrams/diagram-015-811bbdf7a9c2.png",
+      "sha": "811bbdf7a9c2",
+      "rendered": false
+    },
+    {
+      "index": 16,
+      "caption": "Диаграмма 16. Глава 10. Управляемость действия",
+      "source": "assets/diagrams/diagram-016-9a3a6ac47025.mmd",
+      "image": "assets/diagrams/diagram-016-9a3a6ac47025.png",
+      "sha": "9a3a6ac47025",
+      "rendered": false
+    },
+    {
+      "index": 17,
+      "caption": "Диаграмма 17. Глава 10. Управляемость действия (2)",
+      "source": "assets/diagrams/diagram-017-539742da4ccb.mmd",
+      "image": "assets/diagrams/diagram-017-539742da4ccb.png",
+      "sha": "539742da4ccb",
+      "rendered": false
+    },
+    {
+      "index": 18,
+      "caption": "Диаграмма 18. Глава 11. Цена усилия, усталость и ощущаемая энергия",
+      "source": "assets/diagrams/diagram-018-0c098db0d4b6.mmd",
+      "image": "assets/diagrams/diagram-018-0c098db0d4b6.png",
+      "sha": "0c098db0d4b6",
+      "rendered": false
+    },
+    {
+      "index": 19,
+      "caption": "Диаграмма 19. Глава 11. Цена усилия, усталость и ощущаемая энергия (2)",
+      "source": "assets/diagrams/diagram-019-8d282c307808.mmd",
+      "image": "assets/diagrams/diagram-019-8d282c307808.png",
+      "sha": "8d282c307808",
+      "rendered": false
+    },
+    {
+      "index": 20,
+      "caption": "Диаграмма 20. Глава 12. Уровни объяснения",
+      "source": "assets/diagrams/diagram-020-285c22bfb660.mmd",
+      "image": "assets/diagrams/diagram-020-285c22bfb660.png",
+      "sha": "285c22bfb660",
+      "rendered": false
+    },
+    {
+      "index": 21,
+      "caption": "Диаграмма 21. Глава 13. Контуры действия",
+      "source": "assets/diagrams/diagram-021-fd1363ab8120.mmd",
+      "image": "assets/diagrams/diagram-021-fd1363ab8120.png",
+      "sha": "fd1363ab8120",
+      "rendered": false
+    },
+    {
+      "index": 22,
+      "caption": "Диаграмма 22. Глава 14. Нейромедиаторы и гормоны",
+      "source": "assets/diagrams/diagram-022-eec6ea417cb5.mmd",
+      "image": "assets/diagrams/diagram-022-eec6ea417cb5.png",
+      "sha": "eec6ea417cb5",
+      "rendered": false
+    },
+    {
+      "index": 23,
+      "caption": "Диаграмма 23. Глава 15. Стресс, аллостаз и окно полезной нагрузки",
+      "source": "assets/diagrams/diagram-023-9725bef223e4.mmd",
+      "image": "assets/diagrams/diagram-023-9725bef223e4.png",
+      "sha": "9725bef223e4",
+      "rendered": false
+    },
+    {
+      "index": 24,
+      "caption": "Диаграмма 24. Глава 15. Стресс, аллостаз и окно полезной нагрузки (2)",
+      "source": "assets/diagrams/diagram-024-fc39b19cdb0a.mmd",
+      "image": "assets/diagrams/diagram-024-fc39b19cdb0a.png",
+      "sha": "fc39b19cdb0a",
+      "rendered": false
+    },
+    {
+      "index": 25,
+      "caption": "Диаграмма 25. Глава 16. Как строится понимание",
+      "source": "assets/diagrams/diagram-025-f04776bf1138.mmd",
+      "image": "assets/diagrams/diagram-025-f04776bf1138.png",
+      "sha": "f04776bf1138",
+      "rendered": false
+    },
+    {
+      "index": 26,
+      "caption": "Диаграмма 26. Глава 17. Сон, восстановление и консолидация",
+      "source": "assets/diagrams/diagram-026-787a4b19fbf4.mmd",
+      "image": "assets/diagrams/diagram-026-787a4b19fbf4.png",
+      "sha": "787a4b19fbf4",
+      "rendered": false
+    },
+    {
+      "index": 27,
+      "caption": "Диаграмма 27. Глава 17. Сон, восстановление и консолидация (2)",
+      "source": "assets/diagrams/diagram-027-ebff7b4c8729.mmd",
+      "image": "assets/diagrams/diagram-027-ebff7b4c8729.png",
+      "sha": "ebff7b4c8729",
+      "rendered": false
+    },
+    {
+      "index": 28,
+      "caption": "Диаграмма 28. Глава 18. Прокрастинация как конфликт систем",
+      "source": "assets/diagrams/diagram-028-8044b136a122.mmd",
+      "image": "assets/diagrams/diagram-028-8044b136a122.png",
+      "sha": "8044b136a122",
+      "rendered": false
+    },
+    {
+      "index": 29,
+      "caption": "Диаграмма 29. Глава 18. Прокрастинация как конфликт систем (2)",
+      "source": "assets/diagrams/diagram-029-73cad80b471a.mmd",
+      "image": "assets/diagrams/diagram-029-73cad80b471a.png",
+      "sha": "73cad80b471a",
+      "rendered": false
+    },
+    {
+      "index": 30,
+      "caption": "Диаграмма 30. Глава 18. Прокрастинация как конфликт систем (3)",
+      "source": "assets/diagrams/diagram-030-07d3051e06d0.mmd",
+      "image": "assets/diagrams/diagram-030-07d3051e06d0.png",
+      "sha": "07d3051e06d0",
+      "rendered": false
+    },
+    {
+      "index": 31,
+      "caption": "Диаграмма 31. Глава 19. Опыт преодоления",
+      "source": "assets/diagrams/diagram-031-ddfbfcb639f4.mmd",
+      "image": "assets/diagrams/diagram-031-ddfbfcb639f4.png",
+      "sha": "ddfbfcb639f4",
+      "rendered": false
+    },
+    {
+      "index": 32,
+      "caption": "Диаграмма 32. Глава 20. Продуктивность без самоизноса",
+      "source": "assets/diagrams/diagram-032-bf95587df6aa.mmd",
+      "image": "assets/diagrams/diagram-032-bf95587df6aa.png",
+      "sha": "bf95587df6aa",
+      "rendered": false
+    },
+    {
+      "index": 33,
+      "caption": "Диаграмма 33. Глава 20. Продуктивность без самоизноса (2)",
+      "source": "assets/diagrams/diagram-033-c5dd91e803f2.mmd",
+      "image": "assets/diagrams/diagram-033-c5dd91e803f2.png",
+      "sha": "c5dd91e803f2",
+      "rendered": false
+    },
+    {
+      "index": 34,
+      "caption": "Диаграмма 34. Глава 21. Фокус, WIP и переключения",
+      "source": "assets/diagrams/diagram-034-175b9ad36dfd.mmd",
+      "image": "assets/diagrams/diagram-034-175b9ad36dfd.png",
+      "sha": "175b9ad36dfd",
+      "rendered": false
+    },
+    {
+      "index": 35,
+      "caption": "Диаграмма 35. Трек: ...",
+      "source": "assets/diagrams/diagram-035-eb07a3eecbbf.mmd",
+      "image": "assets/diagrams/diagram-035-eb07a3eecbbf.png",
+      "sha": "eb07a3eecbbf",
+      "rendered": false
+    },
+    {
+      "index": 36,
+      "caption": "Диаграмма 36. Глава 22. Ресурсность, сила и ритуалы",
+      "source": "assets/diagrams/diagram-036-297c97703dc0.mmd",
+      "image": "assets/diagrams/diagram-036-297c97703dc0.png",
+      "sha": "297c97703dc0",
+      "rendered": false
+    },
+    {
+      "index": 37,
+      "caption": "Диаграмма 37. Глава 22. Ресурсность, сила и ритуалы (2)",
+      "source": "assets/diagrams/diagram-037-101186450287.mmd",
+      "image": "assets/diagrams/diagram-037-101186450287.png",
+      "sha": "101186450287",
+      "rendered": false
+    },
+    {
+      "index": 38,
+      "caption": "Диаграмма 38. Глава 23. Как ломается мотивационный контур",
+      "source": "assets/diagrams/diagram-038-8c2ad30d30cb.mmd",
+      "image": "assets/diagrams/diagram-038-8c2ad30d30cb.png",
+      "sha": "8c2ad30d30cb",
+      "rendered": false
+    },
+    {
+      "index": 39,
+      "caption": "Диаграмма 39. Глава 23. Как ломается мотивационный контур (2)",
+      "source": "assets/diagrams/diagram-039-db01950d47b4.mmd",
+      "image": "assets/diagrams/diagram-039-db01950d47b4.png",
+      "sha": "db01950d47b4",
+      "rendered": false
+    },
+    {
+      "index": 40,
+      "caption": "Диаграмма 40. Глава 24. Выгорание и профессиональная скука",
+      "source": "assets/diagrams/diagram-040-567464bda7e5.mmd",
+      "image": "assets/diagrams/diagram-040-567464bda7e5.png",
+      "sha": "567464bda7e5",
+      "rendered": false
+    },
+    {
+      "index": 41,
+      "caption": "Диаграмма 41. Глава 24. Выгорание и профессиональная скука (2)",
+      "source": "assets/diagrams/diagram-041-6af4b554d5c3.mmd",
+      "image": "assets/diagrams/diagram-041-6af4b554d5c3.png",
+      "sha": "6af4b554d5c3",
+      "rendered": false
+    },
+    {
+      "index": 42,
+      "caption": "Диаграмма 42. Глава 25. Восстановление как возвращение управляемости",
+      "source": "assets/diagrams/diagram-042-c4c49b5a6c4f.mmd",
+      "image": "assets/diagrams/diagram-042-c4c49b5a6c4f.png",
+      "sha": "c4c49b5a6c4f",
+      "rendered": false
+    },
+    {
+      "index": 43,
+      "caption": "Диаграмма 43. Глава 26. ИИ как усилитель и как обход мышления",
+      "source": "assets/diagrams/diagram-043-eec66b25caed.mmd",
+      "image": "assets/diagrams/diagram-043-eec66b25caed.png",
+      "sha": "eec66b25caed",
+      "rendered": false
+    },
+    {
+      "index": 44,
+      "caption": "Диаграмма 44. Глава 27. Как работать с ИИ, не отдавая ему субъектность",
+      "source": "assets/diagrams/diagram-044-701400f2e54d.mmd",
+      "image": "assets/diagrams/diagram-044-701400f2e54d.png",
+      "sha": "701400f2e54d",
+      "rendered": false
+    },
+    {
+      "index": 45,
+      "caption": "Диаграмма 45. Глава 28. Лидерство как дизайн среды действия",
+      "source": "assets/diagrams/diagram-045-0e5197636d2f.mmd",
+      "image": "assets/diagrams/diagram-045-0e5197636d2f.png",
+      "sha": "0e5197636d2f",
+      "rendered": false
+    },
+    {
+      "index": 46,
+      "caption": "Диаграмма 46. Глава 29. Мотивация сотрудников",
+      "source": "assets/diagrams/diagram-046-b904e4ed134f.mmd",
+      "image": "assets/diagrams/diagram-046-b904e4ed134f.png",
+      "sha": "b904e4ed134f",
+      "rendered": false
+    },
+    {
+      "index": 47,
+      "caption": "Диаграмма 47. Глава 30. Командный фокус, прерывания и выгорание",
+      "source": "assets/diagrams/diagram-047-f282ce3e5934.mmd",
+      "image": "assets/diagrams/diagram-047-f282ce3e5934.png",
+      "sha": "f282ce3e5934",
+      "rendered": false
+    },
+    {
+      "index": 48,
+      "caption": "Диаграмма 48. Глава 31. Диагностика задачи",
+      "source": "assets/diagrams/diagram-048-f8f554bbed0f.mmd",
+      "image": "assets/diagrams/diagram-048-f8f554bbed0f.png",
+      "sha": "f8f554bbed0f",
+      "rendered": false
+    },
+    {
+      "index": 49,
+      "caption": "Диаграмма 49. Глава 32. Проектирование личного когнитивного контура",
+      "source": "assets/diagrams/diagram-049-9dc8965995ff.mmd",
+      "image": "assets/diagrams/diagram-049-9dc8965995ff.png",
+      "sha": "9dc8965995ff",
+      "rendered": false
+    },
+    {
+      "index": 50,
+      "caption": "Диаграмма 50. Глава 33. Практические кейсы",
+      "source": "assets/diagrams/diagram-050-fa5d980ea503.mmd",
+      "image": "assets/diagrams/diagram-050-fa5d980ea503.png",
+      "sha": "fa5d980ea503",
+      "rendered": false
+    },
+    {
+      "index": 51,
+      "caption": "Диаграмма 51. Глава 34. Чего эта модель не объясняет",
+      "source": "assets/diagrams/diagram-051-68db98ed3417.mmd",
+      "image": "assets/diagrams/diagram-051-68db98ed3417.png",
+      "sha": "68db98ed3417",
+      "rendered": false
+    },
+    {
+      "index": 52,
+      "caption": "Диаграмма 52. Глава 35. Как читать исследования и не построить нейромиф",
+      "source": "assets/diagrams/diagram-052-c70e5be037e7.mmd",
+      "image": "assets/diagrams/diagram-052-c70e5be037e7.png",
+      "sha": "c70e5be037e7",
+      "rendered": false
+    },
+    {
+      "index": 53,
+      "caption": "Диаграмма 53. Глава 36. Как пользоваться учебником",
+      "source": "assets/diagrams/diagram-053-d9c429acfeb4.mmd",
+      "image": "assets/diagrams/diagram-053-d9c429acfeb4.png",
+      "sha": "d9c429acfeb4",
+      "rendered": false
+    },
+    {
+      "index": 54,
+      "caption": "Диаграмма 54. Глава 36. Как пользоваться учебником (2)",
+      "source": "assets/diagrams/diagram-054-395eff2e0207.mmd",
+      "image": "assets/diagrams/diagram-054-395eff2e0207.png",
+      "sha": "395eff2e0207",
+      "rendered": false
+    }
+  ]
+}
