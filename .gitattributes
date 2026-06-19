@@ -1,0 +1,17 @@
+# Keep text files with LF line endings in both Windows Git and WSL Git.
+* text=auto eol=lf
+
+# Do not normalize common binary artifacts.
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.webp binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+*.7z binary
+*.docx binary
+*.pptx binary
+*.xlsx binary
