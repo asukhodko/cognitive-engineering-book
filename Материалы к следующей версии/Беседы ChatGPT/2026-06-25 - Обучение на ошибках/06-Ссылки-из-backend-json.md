@@ -1,0 +1,42 @@
+# Ссылки из backend JSON
+
+Это сырой список `safe_urls`, извлеченный из backend JSON shared-беседы. Он содержит полезные источники вместе с техническими, рекламными и промежуточными адресами. Перед использованием в книге каждую ссылку нужно проверить и заменить на устойчивую библиографическую запись.
+
+- Всего элементов `safe_urls`: 35
+
+## Все `safe_urls`
+- <https://images.openai.com/static-rsc-1/jVdaInWI3SzGNi5aYoIe0icrQT_UIV1ctcgaPaZK61UfrbAjR6E59Z8BnkwMy6m4sFdYEjlBuWVu1a_VcToAaYD688hqTCZMH8jgqK8j-fjq0rclLoPS9_Rr8sOpyhDSgyZxSYPPdRlIKikyO9bW5Vd3NQxRanwbWGNhUDlPI_I>
+- <https://www.harvardbusiness.org/insight/why-psychological-safety-is-the-hidden-engine-behind-innovation-and-transformation/>
+- <https://images.openai.com/static-rsc-1/opmhIivN2kG-PXpI0ZLv_3UUs1tXaBYzwzLIpFJ43X3qoWNdUMlcamZYIDJkV6KPDbeaN5c-vbrG41LI2-2o3Qqlhp_lD5lgBxcSZlbhwYn1aPnJk0klyewylqzFOB_zRvDjOuglolyGaVw49w3NnuMZ2Y1shCtLiYioE1dtDPNNu5p8HdTzPNBqx6MwOgJ096azC1C4OCA5nJQwkAQvz8XHuSyl8_PG09FDraXSMkZ9RPrZlB8zKoxbD0VVkpAw6noH0jnN78u47vdW4uzqyZCuSDCaOMhaM2VgymnJ1gGcwvyU2zAb59RDYkir3tgjviEYFUF7qC1h183PS-9W1YOPd3Aq621j6b93DaZqeFRjybTjikddRVyc7xR3lcumK7pIWI-ceA8PtFfHS7O8Hpn9MXMYBiAAPqo2Hg2sIyxZs6vXJZMWwU_n-_hQX8nlSlQRRG3_HUZ3Qr7v23Bm5nT9c3KrnXaP3beI4akQ5w-j9EbceVBvmABJaGmn_MIA9eCa6fGr5s_h66EzElt3dbdyjVZ13C9ZWDfPHsNDd5bL36gRuHd4cFu2YlD_Ojbz>
+- <https://github.com/openclaw/openclaw>
+- <https://www.openai.com>
+- <https://images.openai.com/static-rsc-1/DOYUuHFHvEKgJCIsV3CGtnv6BDr8akUxqmGau1J7976A5DdLw28PeUnWvbA7vU28eu7bFpz_booWzO-jiKduLto4UBf6IXjsxks7yJJt1KyjTt4u4uj_zbrqisk2N_iqHj5Pq0ZLn4bS70ma0mpV-g>
+- <https://teachingcommons.stanford.edu/teaching-guides/foundations-course-design/learning-activities/growth-mindset-and-enhanced-learning>
+- <https://www.apple.com/>
+- <https://images.openai.com/static-rsc-1/ERGZ2TM4MQoy1rZrv4SXlF5cwQtjEO_ZKxE3L8vy-21z6FxzpyFYaEvf8cfWQzASOH6K0JzDLXmBNE2Qi5HQANgaRKuNdtFBQEy-R6fATlE>
+- <https://images.openai.com/static-rsc-1/yj8fcWAgO--jmn0XH4--wOxFDvueh0M2P2Zcu0vIpuJRF5RiT5Rz1b9v4jbfzy0rpzgeKVjjFdfBDGcOhazkPh4Ye9e9rGtr5q6rGrT2lnc>
+- <https://images.openai.com/static-rsc-1/0stuAZV_7AutLxpuxccV1rxEgwmKuWZ9AKKh-s6lzUhLSRqEdEwXMIx9lJGAhISf_sTQ134yEafP0zFsIgks0giILlnbZ41Ky06tdBkyU3SvWbDL_GaIPfrsTIeRnPCk>
+- <https://images.openai.com/static-rsc-1/ZC-O5wdUgDE6YoNRQAC9jn1er5MEt01bzn0MDKJBY4YWwd1gCMrbb1J-FMeqihl_2xfrMRnEAYtf5Nuixo_1Z8yd_kqjCZ2w9XIGkrD6nkYuOCPXNPh7hmeKaU4eTnTC>
+- <https://images.openai.com/static-rsc-1/27leZ8IXgx-7a7wqqaZBoGL4GozIVU17Zi2qZsjNqJGWMHFLErb7a-0M_V4cEynSmpR6PfJrRTNnQz3kfyTVfjaJXsQhOxnlokCH0lK8E5eD6_5qQDUl8io7sSPb8LYBLNQzsxFPENH7cPxvqABk6qOMmD9f8vAy_0JUJpRa2vVn8LubxcpqabMURjGEP_ilFnBgpY52TwNzBVZ40IOqncDy5raWG4aBaL2zK6CglyMUVyKxazdosnweQgkwIDGsbhOKxBPhCpchpSvDIomFKA>
+- <https://educationendowmentfoundation.org.uk/education-evidence/teaching-learning-toolkit/feedback>
+- <https://images.openai.com/static-rsc-1/e24BvErFepO5Zj3N2hqkL4wxo945-aD6PrOjhNk-_qWwVQuwW4jjn26k3jsk0GgGWLw5z0A2oF_m8B0HRVXRU_U_7_31NVkPKbDnw0vtOx2yOMv0U2B-3yJr8BJPJRjK>
+- <https://www.progressive.com>
+- <https://sre.google/sre-book/postmortem-culture/>
+- <https://images.openai.com/static-rsc-1/p9UhnhaAIzD4MCEM-02gjXK6n5Gg7eOM_yEy2DCISm7jNz5Yn-twHnaAwADdwuvjViHDCkQmQrXWIpjDJmxiLQ__6vJwweGbZ1cC6Fic29N8-_t_rdPtSex4LyJ6ZQiNCk7-SIzwOLedJ5k008CyXt6biXxJk7mGc33md_FDD-TYLL444sYKfLP3ZtTkXTg7>
+- <https://images.openai.com/static-rsc-1/i20zZK1EfURMKjQtG4E6u1iuEVNDzn0Pb4Zl0dRvrtvgXmB-ItcdUiZksOuhYcBrTonxZYSbr9KDhUfq3qiMpETaw5ozB-3XbDj4-PFPfr4oWw1WEZTADGvxrnZFgcrV>
+- <https://www.statefarm.com>
+- <https://images.openai.com/static-rsc-1/fU3TK0OvJVlxUPs1ZXZW-ttDlKTuS8szn1Cii4Pe-PcCcql7ZdihqSY8BA51_IpoGyfX1m6ZwVpslYfuPWo778RvGakmaT4ceGZstfdyFkch1dWdrusGLBAuEh7iAmqE>
+- <https://images.openai.com/static-rsc-1/_NnCzMRuD32bLxCUHBckmvCXbTDu1Xyz3KgB5ni87jr7Cxo_CjhCmF9M5H_EpKG8LFTKOOGy6md4STTrRsLJkA7GkPMu6Skj2U_jgblz4Rk5Sk3MTG422s5uTSk5vB8OZtCCS6RYYiQ84viR_w6fvw>
+- <https://images.openai.com/static-rsc-1/ZRgyMUCpO1L_Lddpq1JnMxzGzZvKor37ddCVszAg0qt1B5Ikzkw-PevaPEzhr3oetWFWROTqatvNUS5XVhnmkoVKqb2SJpbgB8wXK8B4LZZJ9eAYDoYjIwAE1u2qaoBbWk7v1uiOjW6bywodlbMYfrut56uWyfXvDNCpkv_aI5MVFxVnl2lGpI4JkDxxp_qT0lsy6uDRhxJGkjwox76QjjMCwe1NPz-VgyrvCY4JT6w>
+- <https://images.openai.com/static-rsc-1/6rsa9ZoMF5SRJOYjmnEp4D63waHRcx-R07qbgT37N2pwSYafLk3zPcV7kie5ZiCW8ACdmuhjMygptXnaf-q_wijQu18k1Q-KTwRbp48HDcQ5C09Ac-bXopQvp-bYDW9kdCRRDs5vue9fPNZgjdKhT9xBVelXrCmk0CW-baDNVYuxa_lXOBkGB4qXNb15Gz5q4_DAuQr77cIYDyPEBe9O8Q>
+- <https://images.openai.com/static-rsc-1/H1XhJ_9LrBpVrFrLhKv-IXr3USnlv6lPwyDL-obecKlcMDX-GlvzgCxWUOjDu0lImenlSZH0BprryJIsT9iuMqVHWGzAUPoA7n1WjJomgRPfzcmz8I0gKPZetZFlil5Y7jBukHAY1CLVBcCqHhKb2tTNw9Q42AM3Xi4xcCQW05U>
+- <https://www.healthychildren.org/English/family-life/family-dynamics/communication-discipline/Pages/Disciplining-Your-Child.aspx>
+- <https://images.openai.com/static-rsc-1/eqFYh_y9eRaYLy2AZ9q79dqkWaT2XJF95iPBEtxCi8aELvxujHaHF1w8DXgtVXhWHH0pkysOrqvFTf-OFKeV6VzhqQx3umwBcyPg8hi5Mw88aeS1azY30vIQFnY-Rw07hQ_oxhT0dHN-vczHB3Mlb6y7PixC6afW6sAkitk0gQwlMgwW3bKwTSzwnpPhtuNJ>
+- <https://images.openai.com/static-rsc-1/hCMzrA8U9ombRvUJGGwxB8XeZ4XbS50RG-06n053Ht5sSfA1NOkaeFlKfFeYJZ1n_aI92XsxgMkJOa7RjMCkgbxkgdFdmR9FWAsFQ0OWqoyTo6HCDR-gq6wUeEw4-1P-gYCFd6NFwja3H0hw4NnsWtvfrsh9kUqHW0t3h90VuIM>
+- <https://images.openai.com/static-rsc-1/mVLWI5sqOQEFj1pM9d_lA_zobgN0eJYtFaSNwSkHGbUkugFZKfb8O7wT24Hvtm1YdA1ez4YhzfclcITJGH90E9_IObGr8ds8wesI0X8Jv6DJZXVO4YmS3YF2r83RDMbRpxmBMfFvp2Dd267LOXGHFVoVZ62Gwf_i3SfXSUnrq2l11DNB0tWPGomEyu_XDzHe>
+- <https://images.openai.com/static-rsc-1/2pkCM9DeXlzs10vNR38l3Uw0lNmWvCLho6izVk42qap8_5vaTK6ltn56_QXUshcWN8HPCUDtWhrxglXKCMdeK2or9G-j2odecVzzsE5BqNNn55cl5bNUBsAU2W37LGQOydj1tKdplhSiu2vfwegMTg>
+- <https://ctl.dukekunshan.edu.cn/resources/teaching-guides/feedback-for-learning>
+- <https://docs.google.com/document/d/>
+- <https://images.openai.com/static-rsc-1/45zSPL0rDek3GD3-R872WZNvmIYymQXw5BbSWKb5l6ypFxgHmw8EIiuJ4-qrMyrZ00BYa3kZaZpX1B-YxcEAzRYFJ1WiIVcf4v5DZf9QHXJoi_SmEslhTs884cc5OmShukH2goxU6CUiqxIJLHiU9-zViCPJUAzixJ7GVjjoEJGXjjvSCaF_AKQA-a-bNKJN>
+- <https://images.openai.com/static-rsc-1/hsAcAIaGceJMnS5YKG4CC-W2NvrIAIL0qYY1wN_f9Q8y6VatOg_74H0PmOSD3FPZHEuPwu9ZBNmQEIjDuLpYU0noqNim1LbbgUgZVtJdP6WNjRgmJhLm7Do1MZTWsr6W>
+- <https://images.openai.com/static-rsc-1/vML63wZmrpijONupWqkyvoc-P6Sk6urQW52REy18P01e6ajecJCQc3wCeD5vLYY8sAX_XGJCEQodFt_hAuuzzu1zn7H8-nUmMNQp4PWkNhcwbjBOzeUqA-3mB7u7drBO3QDApzMZASGCNKTk3UrNeg>
