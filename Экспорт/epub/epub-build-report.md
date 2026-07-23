@@ -1,8 +1,8 @@
 # EPUB export report
 
 Date: `2026-05-28`
-EPUB: `/home/asukh/dalamar81/repos/github/asukhodko/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство.epub`
-EPUB source: `/home/asukh/dalamar81/repos/github/asukhodko/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство - epub source.md`
+EPUB: `/home/asukh/dalamar81/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство.epub`
+EPUB source: `/home/asukh/dalamar81/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство - epub source.md`
 Diagrams: `54` total, `0` rendered this run, `54` reused from cache.
 Size: `4713047` bytes
 
@@ -27,7 +27,7 @@ EPUBCheck completed
 
 ```text
 epub export check passed
-epub: /home/asukh/dalamar81/repos/github/asukhodko/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство.epub
+epub: /home/asukh/dalamar81/cognitive-engineering-book/Экспорт/epub/Когнитивное инженерство.epub
 diagrams: 54
 bytes: 4713047
 ```
