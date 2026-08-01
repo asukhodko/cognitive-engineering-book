@@ -50,7 +50,7 @@ epub-check:
 
 extract-chatgpt:
 	@test -n "$(CHATGPT_SHARE_URL)" || { echo 'CHATGPT_SHARE_URL is required' >&2; exit 2; }
-	$(PYTHON) "Инструменты/extract_chatgpt_share.py" "$(CHATGPT_SHARE_URL)" \
+	@$(PYTHON) "Инструменты/extract_chatgpt_share.py" "$(CHATGPT_SHARE_URL)" \
 		--proxy "$(CHATGPT_SHARE_PROXY)" \
 		$(if $(strip $(CHATGPT_SHARE_OUTPUT)),--output-dir "$(CHATGPT_SHARE_OUTPUT)",) \
 		$(if $(filter 1 true yes,$(CHATGPT_SHARE_FORCE)),--force,)

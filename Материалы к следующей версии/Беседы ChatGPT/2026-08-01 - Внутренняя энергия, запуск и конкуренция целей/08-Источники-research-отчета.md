@@ -1,0 +1,57 @@
+# Источники research-отчета 1
+
+Ссылки извлечены из metadata отчета и требуют библиографической проверки.
+
+- <https://academic.oup.com/brain/article/123/6/1216/441949>
+- <https://academic.oup.com/brain/article/139/10/2706/2196563>
+- <https://academic.oup.com/brain/article/139/5/1325/2468761>
+- <https://academic.oup.com/brain/article/141/5/1455/4974326>
+- <https://academic.oup.com/cercor/article-abstract/33/12/7714/7078819>
+- <https://academic.oup.com/cercor/article/16/7/916/425683>
+- <https://academic.oup.com/cercor/article/16/7/916/425683?utm_source=chatgpt.com>
+- <https://academic.oup.com/cercor/article/26/2/807/2367142>
+- <https://academic.oup.com/scan/article/14/8/899/5566548>
+- <https://files.osf.io/v1/resources/yqcd4_v1/providers/osfstorage/68497bd57d043f80bd5392ff?action=download&direct=&version=1>
+- <https://files.osf.io/v1/resources/yqcd4_v1/providers/osfstorage/68497bd57d043f80bd5392ff?action=download&direct=&version=1&utm_source=chatgpt.com>
+- <https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2271>
+- <https://journals.physiology.org/doi/full/10.1152/jn.1999.82.5.2271?utm_source=chatgpt.com>
+- <https://journals.plos.org/ploscompbiol/article?id=10.1371%2Fjournal.pcbi.1010079>
+- <https://link.springer.com/article/10.3758/s13415-024-01191-y>
+- <https://link.springer.com/article/10.3758/s13415-024-01261-1>
+- <https://orca.cardiff.ac.uk/id/eprint/148970/3/1-s2.0-S0010945222001083-main.pdf>
+- <https://osf.io/download/63a2e77f175ccb0182329885/>
+- <https://osf.io/download/63a2e77f175ccb0182329885/?utm_source=chatgpt.com>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10280308/>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10280308/?utm_source=chatgpt.com>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC11578592/>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC11578592/?utm_source=chatgpt.com>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC3201762/>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC3201762/?utm_source=chatgpt.com>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4508580/>
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4508580/?utm_source=chatgpt.com>
+- <https://pubmed.ncbi.nlm.nih.gov/38658367/>
+- <https://pubmed.ncbi.nlm.nih.gov/38658367/?utm_source=chatgpt.com>
+- <https://pure.mpg.de/rest/items/item_2614460_4/component/file_2622710/content>
+- <https://www.annualreviews.org/content/journals/10.1146/annurev-psych-020223-012208>
+- <https://www.mriquestions.com/uploads/3/4/5/7/34572113/mitochondria.pdf>
+- <https://www.nature.com/articles/npp201348>
+- <https://www.nature.com/articles/npp201348?utm_source=chatgpt.com>
+- <https://www.nature.com/articles/s41380-023-02327-1>
+- <https://www.nature.com/articles/s41398-022-02292-3>
+- <https://www.nature.com/articles/s41467-021-21315-z>
+- <https://www.nature.com/articles/s41467-023-41130-y>
+- <https://www.nature.com/articles/s41598-017-03564-5>
+- <https://www.nature.com/articles/s44271-024-00103-7>
+- <https://www.nature.com/articles/s44271-025-00197-7>
+- <https://www.nature.com/articles/s44271-025-00197-7?utm_source=chatgpt.com>
+- <https://www.nature.com/articles/srep42287>
+- <https://www.psy.ox.ac.uk/people/masud-husain/publication_modal/2409613>
+- <https://www.psy.ox.ac.uk/people/masud-husain/publication_modal/2409613?utm_source=chatgpt.com>
+- <https://www.researchgate.net/publication/304576751_Muscle_Fatigue_Affects_the_Interpolated_Twitch_Technique_When_Assessed_Using_Electrically-Induced_Contractions_in_Human_and_Rat_Muscles>
+- <https://www.researchgate.net/publication/304576751_Muscle_Fatigue_Affects_the_Interpolated_Twitch_Technique_When_Assessed_Using_Electrically-Induced_Contractions_in_Human_and_Rat_Muscles?utm_source=chatgpt.com>
+- <https://www.researchgate.net/publication/332647639_What_If_and_When_to_Move_Basal_Ganglia_Circuits_and_Self-Paced_Action_Initiation>
+- <https://www.researchgate.net/publication/332647639_What_If_and_When_to_Move_Basal_Ganglia_Circuits_and_Self-Paced_Action_Initiation?utm_source=chatgpt.com>
+- <https://www.sciencedirect.com/science/article/abs/pii/S0196978124001335>
+- <https://www.sciencedirect.com/science/article/abs/pii/S0196978124001335?utm_source=chatgpt.com>
+- <https://www.sciencedirect.com/science/article/pii/S0889159123001319>
+- <https://www.sciencedirect.com/science/article/pii/S0889159123001319?utm_source=chatgpt.com>

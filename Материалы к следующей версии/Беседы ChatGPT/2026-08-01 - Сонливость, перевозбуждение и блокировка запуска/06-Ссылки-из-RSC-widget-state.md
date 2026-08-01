@@ -1,0 +1,65 @@
+# Ссылки из ChatGPT Share
+
+Список является технической выгрузкой и не считается проверенной библиографией.
+
+- <https://docs.google.com/document/d/> — `conversation.safe_urls`
+- <https://images.openai.com/static-rsc-1/-P1avnQwQ0FC_6i3DkDDFsISZHv6Vnp1YcFctL_s9wZeDH5bJnoNE1bSWmBwiZfOSuMYp2VLfBDXjPVbqaDT5JW4lXrCyre2ZyX6ZTJ91i2O5a1iwzQBQQ6nBdDz46dmbiRyMQaFbsgSSbKdJj6Btw> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/4Y-LqCeRlLbV4VkYmTet7B0GRlBRPIUeZAmNXVgVj7pGwJXGiaQk8-Nlty4DBDif2Iwcilyv-t5T9NpQxw128H9yym9hMF6nzGIdwPDS0Ce8Ppg6JZuUhQYKjJL__wlEWs5Yuds_uwQa0YhsEyitrA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/5TgL4yRBKodX5jXgE0sj80zFL97zZ1wmss8DH33erWjOhbsUYx5pVi_AgDx_5yVoP38eGfvF9rpaEBUbv1dBLOr85b7onIJcengzVQWm9oYSqjaImGccNbv49_doGJjOfNER9Ewm9e3I47hSA2vturoDJOw3tcwf2H7Dgi5HaKZj7hn_bECaF6l6K98Ek5VG> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/94e_hxLJVPdAQgJ-AMJBso7p5tW_YJcqEhXXRRjE1pM4BB_TPXMB0J5LB-zSuDfBxO496Q88e73SpS1UBejPuLJFR2RwbO_3nM4PDrLDNhtilxOEdcBo5CawDHahqOlj> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/BVR7TEM5lJQUAeLH0jsmgp-ila9RvNkLRGNn51Y47iqg2aMbOgFp8wbxCkWIxNkJ45uUbb3FVL5GwjUTQP8o9qMTNqgIoaW6wZbLcP6dBW732gYBS7NWeBCWnwUa4hr4wuR_smIofWJAx7bD2VP4kw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/F_CXn41AiZskNqIrs-M9sImLi7WSkoaoWfemEqaf3D2eqc2iP3rSyb0AE0aGfoMbthEi_JfzRdYaSQXMp1AuhObWIL-ZG7HqYDdJB97fwjMbxsVBgkJoIogz9wcuVUBQLTClHpyWBhZZyDMA0Hl8Lw> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/JLGXvPOy7e9whsVQe100EDlVbP9wt4QrGnC8eF_YETpYxEqbyN15-I4cmm5DU8kABbJ7uISf0s1Jklt3aQLxBaylZqF510YzfhvifamOXazFxMAbVVo7e-y_22pB5ZAqKdDw2Iou40hjtYmJ4VNthw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/JbT_HuM589DdDmVk5rog-TrVBqLUlTcoKkLsOXviNqs0FbTd1tH-i1rL9k9H_gDCcEPB6cAeJGIryKYAfXueABjCvC3PvXhBkLIlI6vOgCq0USp_FAgD5Mw8GsG6-Q7_> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/K0g-lz5uNrWUexMq_HOAj7aLV6C_0Wql6ZE86-vhmqy66u3AuQKvSVTVY_HfYrxWfG8lQXGwArTyYI429f5hVrZsmFdTTYQyy_6tJTAS807eCu2o1ZzNsyAbHjJl7S9l> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Mt6e7jSCU45FjrLpSFjzrdnRGjIfCQ4g4RhJkyocHe0AlxgCYgJh9p_1vMbaCWqLStKj_B31fDy7Lm047BgobDrNcdFmedv3oE4ufzQCDvVz5ZA-b7pyB1RmkcRC4JSF2Z5TXxyjBnIrIxlwJDGA7w> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/OSdlHUZlS-e7CFaL4uM-EhpcJbNx0zEpMGhTyWt27Miu6CGEVCsbyJTb8Grzk9HOO3U7yiv656twWnmKoETwdONBq1mfFc6W-48aoDZ9SGOWm2oS9u4u0CItNGv5xTo1> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/OnyWD1NVtU90EtW3W_oPIpZ8NT1pyC7de2uXL1lVzh-R-cyuXmx-9MusmJTWgQUNccLbXNvGOqNg8BLMKewFFSfeaIgk6KJFagvMfQG9yoLRoSmYvtZNR6DmJl7waoWekuh0-BbR_HsSE3f43qHM4g> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Tn9FOBdiN_ix0ionN0E9shJw8TRBGnQAIIEVmWpjc_FbgoS5J1Zgy9zQM2eRl2GZ1Q6lHXcUvnwy467G0eTsBrGGqI3o-EZTcAnEB023Bihct_cvWa4V1MYF3V3N0x7X> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/YlFY3oXcDWBItQh40I-HBYxfXM44n9cD2hEOusWR0z5F4MK1vFvCR-bH8OMkUcv7NX6o3AKvSP0qkmtWFeZKfvapln2XHUHjAslIzGv46eRldOFMmbuJB_OxjYVBhJ1F-gDDTSZQjVWntTt600Ebsw> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/c5qI6PG_VPSf15eqmyEHziR6voimt-yk2OGulQ2P5Nt_KOXqJHLuc5lCRhnYE5CmO0InUHabbqBAmpDiy1oHmnG03g94eyw1hjCwJxDJ7M0YV1zrSjHt2Fg0Ig0PWZtSu3s-CPOks17DHwtgQpb9Hg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/dNOosC_U9nLgY2Di60MKqrw7fEl1ohpvITsw7mPmJqGmvkmZvhMPoKsdpJMwkTDTU8Lgw7uV1Le5g_a0m8bahHN7i89B2KXeaVOgRT8zetzjQJMjwXBHXDUJlNoxNnNXVyoD1UTdO-oD-_nNXqh1tg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/dmMgttuRnPpN-Zw1_RbVt-3l9Jkm0dmR5hcTlmuYMJSdNwlRd1YNVlhHlv96PJyJtnJdAVgcRsTuMGVy8Tkcov5fQYbCNh2Pa9wkUwyOteRjAn0Zt4amfRB6wVE5WA-VdEYRjufxEBTN2C9AesBCvA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/eV1J2yIHZzVag_b7MW2hOVwLdAKg0q7_JhFvktqv4Ck9zXH0DNgIYP_4BAxhQbaZRrYNB50-Yolbp1cJGxud-kpVD1b1D1zz_j16SoC5wCGgv4fFHDfRI3xc7tj1BQm-NK_u1VP8VP0EMWtQG_sh5Q> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/m7Ie_qnGhdfyHHdUCtR4PPJpTajBnPFDLmj1iB-nohNDoGTnfRucn5r6F1QHPLv9Pt4OwfI5WsZ36NSpxz-mGXB8s5ebUQ66IbFHdj1Cbef0JtaZc6N1cd32ZoOa1uH0S1zeX7wLIl3nOxAfImvRkA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/nJ1G-od9aR7lI5VKzUcV5Q9dhnYVdgPgX5yejJ55p4Q-bs3LGse5RigVkZ_B6wfEnyIqQ8qXjND0Um4jY14USxCs6lyZ0iP3KgqkkTQuD0lDU5RT8hsv4BZK3uY2tMlR> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/pVAh-TnGboA5MF14Ak6f3Gf4WJ1EFk6HMdZDyvjqmle8QvopUWEcSJzibrzPdjrBGpxqsDV6TJgJYJV6ko4KIMNNzwKuETCFWHAcAvqX1plz7tLPyWKtvvx5CFj8tQiXUQa11LnQj6T9n6I_LYwIrw> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/qMkwfgxOWi7O9nuOFTntexUxipn_hSKv7H5AknjxekGYENcrpf1DwNNq5bzhi-MO0yMVtjcDNNMpge2zWQSmJ7Gdfx4WD5fI7kSHTG1q3sKtsvezLLS2WGXCjzBCHXzq> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/r3Y1y0h8YRt54GS8UJlviVc9fzek5znsDpVNRytMx0TLAbDfKZ7_ZZyFqGYwGoiC6_Yeg4cdhLMwzfylgxreuCwWn1OMOKEz4WL2jwfjrIiwQg6jbtLOCdSy3tvWJ_p0kX1ycYLuypQhCYsWwY0K13ZQFH6bpnpfalR7UL-yD9k> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/rSDN-yGgYUVGYnEFYrVgbGINUesotJ6hIRyyQ8X7Q2oishHamNIdyXSM6Ws0DI7dzjKoyjDKsOd0i_9K3Zp88F5w5eSj2tBQ5nmvjCX6Ltg6xxCIuPCnClSAE5EH3UIrTguznafjoeaz1eQ4f2BloA> — `conversation.safe_urls`, `message:8:metadata`
+- <https://images.openai.com/static-rsc-1/yF57UZ7KvbOQazRWEVczbT3tRSvyUKP8MKtqy_WUaYSOn0TdhFzMHJ0g-4sA-OfTB1k-IV0J4pbR4oi31VUKPoOqUtmirDNTI24UCUVWHovbqxMh68mqtXzk-i58PPW_3AcQuQsI_mUjP-_EPShRrg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/factsheets/Iron-Consumer/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/factsheets/Iron-HealthProfessional/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/factsheets/Magnesium-HealthProfessional/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/factsheets/VitaminD-Consumer/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://ods.od.nih.gov/pdf/factsheets/vitaminb12-consumer.pdf> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324/> — `conversation.safe_urls`, `message:8:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6054324/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/24235903/> — `conversation.safe_urls`, `message:8:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/24235903/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/32247571/> — `conversation.safe_urls`, `message:8:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/32247571/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://richtlijnen.nhg.org/standaarden/adhd> — `conversation.safe_urls`, `message:8:metadata`
+- <https://richtlijnen.nhg.org/standaarden/angst> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.cdc.gov/niosh/mining/UserFiles/works/products/training/keepingcool/NIOSHMiningFactSheets.pdf> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.efsa.europa.eu/en/topics/topic/dietary-reference-values?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.fda.gov/consumers/consumer-updates/spilling-beans-how-much-caffeine-too-much?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.nice.org.uk/guidance/ng202/chapter/1-Obstructive-sleep-apnoeahypopnoea-syndrome> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.nice.org.uk/guidance/ng206/chapter/recommendations> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.nice.org.uk/guidance/ng222/chapter/recommendations> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know> — `conversation.safe_urls`, `message:4:metadata`, `message:8:metadata`
+- <https://www.nimh.nih.gov/health/publications/adhd-what-you-need-to-know?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.nimh.nih.gov/health/publications/depression> — `conversation.safe_urls`, `message:4:metadata`, `message:8:metadata`
+- <https://www.nimh.nih.gov/health/publications/depression?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.openai.com> — `conversation.safe_urls`
+- <https://www.thuisarts.nl/moeheid/ik-ben-moe-wat-kan-zijn> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.thuisarts.nl/slaapapneu/ik-denk-dat-ik-slaap-apneu-heb> — `conversation.safe_urls`, `message:8:metadata`
+- <https://www.thuisarts.nl/vitamine-b12/ik-heb-misschien-te-weinig-vitamine-b12> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.thuisarts.nl/vitamine-b12/ik-heb-misschien-te-weinig-vitamine-b12?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.thuisarts.nl/vitamine-d/heb-ik-extra-vitamine-d-nodig> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.thuisarts.nl/vitamine-d/heb-ik-extra-vitamine-d-nodig?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.voedingscentrum.nl/encyclopedie/vitamine-d.aspx> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.voedingscentrum.nl/encyclopedie/vitamine-d.aspx?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
