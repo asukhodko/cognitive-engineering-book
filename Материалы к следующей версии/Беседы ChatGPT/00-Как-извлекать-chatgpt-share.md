@@ -1,62 +1,96 @@
 # Как извлекать материалы из ChatGPT Share
 
-## Рабочий способ
+## Каноническая команда
 
-Для публичной ссылки вида:
+Для публичной ссылки вида `https://chatgpt.com/share/<share-id>` использовать штатный CLI из корня репозитория:
 
-```text
-https://chatgpt.com/share/<share-id>
+```bash
+python3 "Инструменты/extract_chatgpt_share.py" \
+  "https://chatgpt.com/share/<share-id>"
 ```
 
-можно пробовать JSON-эндпоинт:
+Короткий вариант через Makefile:
 
-```text
-https://chatgpt.com/backend-api/share/<share-id>
+```bash
+make extract-chatgpt CHATGPT_SHARE_URL="https://chatgpt.com/share/<share-id>"
 ```
 
-Именно этот способ сработал для первой сохраненной беседы:
+Системный браузер, Chromium, Puppeteer и исполнение JavaScript не требуются.
 
-```text
-https://chatgpt.com/share/6a33f58d-1238-83eb-9ae7-fe807c518e08
-https://chatgpt.com/backend-api/share/6a33f58d-1238-83eb-9ae7-fe807c518e08
+## Как работает извлечение
+
+Утилита последовательно использует два публичных представления одной беседы:
+
+1. `https://chatgpt.com/backend-api/share/<share-id>` - готовый JSON, если endpoint доступен.
+2. HTML shared-страницы - fallback при `403` backend API. Из HTML извлекаются строки `window.__reactRouterContext.streamController.enqueue(...)`, JSON-декодируется RSC reference pool и восстанавливается объект беседы.
+
+Режим `--proxy auto` перебирает:
+
+1. маршруты из переменной `CHATGPT_SHARE_PROXIES`;
+2. direct-доступ без environment proxy;
+3. локальный proxy-кандидат `http://127.0.0.1:8899`.
+
+Адреса сетевых gateway не зашиваются в публичный репозиторий. Их следует задавать через `CHATGPT_SHARE_PROXIES` или повторяемый параметр `--proxy`.
+
+Маршрут можно задать явно и повторить параметр для собственного fallback-порядка:
+
+```bash
+python3 "Инструменты/extract_chatgpt_share.py" \
+  "https://chatgpt.com/share/<share-id>" \
+  --proxy direct \
+  --proxy "http://proxy-host:8897"
 ```
 
-## Что делать при препятствиях
+Учетные данные proxy, если они присутствуют в URL, маскируются в manifest и консольном выводе.
 
-- Если обычная страница `chatgpt.com/share/...` показывает только оболочку ChatGPT без текста, открыть `backend-api/share/...`.
-- Если локальный `Invoke-WebRequest`, `curl` или headless-браузер получают `403`, не считать это провалом: Cloudflare может блокировать скриптовый доступ, хотя JSON остается доступен через web-инструмент агента.
-- Если браузерная загрузка показывает `Unable to load site`, использовать backend JSON, а не пытаться извлекать текст из отрендеренной страницы.
-- Если backend JSON недоступен, fallback-путь: открыть ссылку в обычном браузере с пользовательской сессией и вручную сохранить видимый текст, затем отдельно проверить источники.
+Для повторной выгрузки в тот же каталог нужен осознанный `--force`; через Make ему соответствует `CHATGPT_SHARE_FORCE=1`.
 
-## Что извлекать из JSON
+## Что создается
 
-- `title` - название беседы.
-- `conversation_id` - идентификатор share.
-- `safe_urls` - список ссылок, найденных или использованных в беседе.
-- `mapping` - дерево сообщений.
-- `message.author.role` - роль сообщения: `user`, `assistant`, `tool`, `system`.
-- `message.content.parts` - основной текст пользовательских и финальных ассистентских сообщений.
-- `metadata.content_references` - связи между цитатами в ответе и источниками.
-
-## Что не сохранять как материал
-
-- Скрытые системные сообщения.
-- Служебные tool-вызовы.
-- Технические поля модели, request id, websocket, polling и прочее.
-- Рассуждения модели как самостоятельный источник.
-
-Их можно использовать только для навигации по JSON и восстановления ссылок, но не как содержательную часть будущей книги.
-
-## Рекомендуемый формат сохранения
-
-Для каждой беседы создавать отдельный каталог:
+По умолчанию экспорт лежит в `chatgpt-share-exports/<share-id>/` и не попадает в Git:
 
 ```text
-Беседы ChatGPT/YYYY-MM-DD - Краткое название/
-  00-Карточка-материала.md
-  01-Извлеченная-беседа.md
-  02-Источники.md
-  03-Заметки-для-книги.md
+conversation.md
+conversation.json
+links.md
+links.json
+research/
+  001-report.md
+  001-report-metadata.json
+  001-sources.md
+files/
+files.json
+manifest.json
 ```
 
-После сохранения добавить строку в `../01-Реестр-материалов.md`.
+- `conversation.*` содержит только видимые ходы `user` и `assistant`.
+- `research/` содержит финальные Deep Research reports из `widget_state.report_message`, если они публично сериализованы.
+- `links.*` сохраняет `safe_urls`, `content_references` и ссылки из видимого текста как технические кандидаты, а не готовую библиографию.
+- `files.json` фиксирует явные attachment/file локаторы и результат каждой попытки скачивания.
+- `manifest.json` хранит способ доступа, маршрут, счетчики, ограничения и SHA-256 созданных артефактов.
+
+`--save-raw` сохраняет исходный HTML или backend JSON в `raw/`. Это нужно только для диагностики: raw payload может содержать временные websocket/download URL и не должен автоматически коммититься.
+
+## Research и созданные файлы
+
+Research-результат может находиться не в обычном assistant-сообщении, а внутри JSON-строки `metadata.chatgpt_sdk.widget_state`. Утилита разбирает ее отдельно, сохраняет `report_message` и карту `content_references`.
+
+Автоскачивание применяется только к явным file-признакам:
+
+- `asset_pointer`, `file_id`, `download_url` и attachment metadata;
+- `file-service://...`, `sandbox:/...` и сходным локаторам;
+- файловым HTTP(S)-ссылкам непосредственно в видимом сообщении.
+
+Research PDF из `content_references` остаются в `links.*` и не скачиваются массово. Для HTTP-загрузок запрещены localhost и literal private-address targets, действует лимит размера, а неполные ответы не сохраняются как готовые файлы. `sandbox:/...` без публичного download URL отмечается как недоступный, но не теряется из manifest.
+
+## Границы полноты
+
+- Скрытые `system`, `tool`, `code`, `thoughts`, `reasoning` и visually-hidden узлы не переносятся в `conversation.md`.
+- Заглушка `The output of this plugin was redacted.` не считается research-результатом.
+- Если финальный report отсутствует и заменен заглушкой, его нельзя восстановить из одной shared-ссылки: нужен пользовательский export или вложение.
+- `safe_urls` и citation metadata требуют проверки по первоисточникам перед использованием в книге.
+- Удаленная, закрытая или переставшая быть публичной share-ссылка не может быть извлечена без авторизованного источника.
+
+## Перенос в материалы книги
+
+После проверки выгрузки создать или дополнить dossier в `Беседы ChatGPT/YYYY-MM-DD - Краткое название/`: сохранить карточку материала, видимую беседу, research-файлы, выжимку, карту источников и состояние сохранения. Затем добавить отдельную строку в `../../01-Реестр-материалов.md`.

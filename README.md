@@ -40,6 +40,29 @@
 - `Сомнения и спорные места/` - места с риском ошибки, слабой доказательности или конфликтующих интерпретаций.
 - `Беседы ChatGPT/` - извлеченные shared-беседы, оформленные как карточки, беседы, источники и заметки для книги.
 
+## Извлечение ChatGPT Share
+
+Публичную shared-беседу можно выгрузить без системного браузера:
+
+```bash
+make extract-chatgpt CHATGPT_SHARE_URL="https://chatgpt.com/share/<share-id>"
+```
+
+Утилита сначала пробует публичный `backend-api/share/<id>`, затем скачивает HTML и декодирует сериализованный React Router/RSC payload без исполнения JavaScript. В режиме `auto` она перебирает direct-доступ, значения из `CHATGPT_SHARE_PROXIES` и loopback proxy-кандидат. Нелокальные маршруты намеренно не зашиты в репозиторий. Явный маршрут и каталог можно задать напрямую:
+
+```bash
+python3 "Инструменты/extract_chatgpt_share.py" \
+  "https://chatgpt.com/share/<share-id>" \
+  --proxy "http://proxy-host:8897" \
+  --output-dir "/tmp/chatgpt-share-export"
+```
+
+Экспорт содержит видимый диалог в Markdown/JSON, embedded Deep Research reports, полную техническую карту ссылок, manifest с хэшами и результаты попыток скачать явные file-артефакты. Скрытые `system`, `tool`, `reasoning`, `thoughts` и code-вызовы в диалог не попадают. По умолчанию результат сохраняется в игнорируемый Git каталог `chatgpt-share-exports/<share-id>/`; перенос в dossier и реестр делается только после содержательной проверки.
+
+Опция `--save-raw` дополнительно сохраняет исходный HTML или backend JSON. Raw payload может содержать временные служебные URL и поэтому не должен автоматически попадать в Git.
+
+Повторная команда не перезаписывает прежний экспорт без разрешения. Для осознанного обновления того же каталога передать CLI-флаг `--force` или `CHATGPT_SHARE_FORCE=1` в Make.
+
 ## Готовые артефакты
 
 - `Экспорт/Когнитивное инженерство - reader edition.md` - единая Markdown-версия для чтения.
@@ -78,6 +101,8 @@ make bibliography
 
 - Python 3.
 
+Извлечение ChatGPT Share использует только стандартную библиотеку Python; Node.js, Chromium и системный браузер не нужны.
+
 Для EPUB-сборки:
 
 - `pandoc`;
@@ -99,6 +124,7 @@ python3 "Инструменты/check_reader_edition.py"
 python3 "Инструменты/check_goal_evidence.py"
 python3 "Инструменты/check_bibliography.py"
 python3 "Инструменты/check_epub_export.py"
+python3 -m unittest discover -s "Инструменты/tests" -p 'test_*.py'
 java -jar /usr/share/java/epubcheck.jar "Экспорт/epub/Когнитивное инженерство.epub"
 ```
 

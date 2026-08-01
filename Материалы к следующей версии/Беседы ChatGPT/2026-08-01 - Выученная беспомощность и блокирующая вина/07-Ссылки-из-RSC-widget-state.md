@@ -1,0 +1,250 @@
+# Ссылки из ChatGPT Share
+
+Список является технической выгрузкой и не считается проверенной библиографией.
+
+- <https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12011> — `conversation.safe_urls`, `message:7:metadata`
+- <https://compass.onlinelibrary.wiley.com/doi/abs/10.1111/spc3.12011?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:7:metadata`
+- <https://cyberleninka.ru/article/n/komponenty-samootnosheniya-kak-prediktory-prokrastinatsii-studentov-vuza> — `research:1`
+- <https://cyberleninka.ru/article/n/lokus-kontrolya-kak-prediktor-prokrastinatsii-u-trudoustroennyh-i-nerabotayuschih-studentov-pedagogicheskogo-vuza> — `research:1`
+- <https://cyberleninka.ru/article/n/prokrastinatsiya-aktualnoe-sostoyanie-problemy-i-perspektivy-izucheniya> — `research:1`
+- <https://cyberleninka.ru/article/n/teoreticheskie-podhody-k-izucheniyu-viny-i-styda> — `research:1`
+- <https://cyberleninka.ru/article/n/vina-i-styd-v-kontekste-psihologicheskoy-regulyatsii-sotsialnogo-povedeniya-lichnosti> — `research:1`
+- <https://cyberleninka.ru/article/n/vzaimosvyaz-pokazateley-perfektsionizma-i-prokrastinatsii> — `research:1`
+- <https://docs.google.com/document/d/> — `conversation.safe_urls`
+- <https://europepmc.org/article/med/29331596> — `conversation.safe_urls`, `message:4:metadata`
+- <https://europepmc.org/article/med/29331596?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://github.com/openclaw/openclaw> — `conversation.safe_urls`
+- <https://images.openai.com/static-rsc-1/-4o_GW3q6aLwN1fXH_JD2-GT0-BplqQQpZr8Mm-Lug8BiCvXudyOj1ZWNGRweg8Va7tSQUDwo0zoCmvCKNVOFHpTj4cvlIzSVu8Tr7lRMcONC9xJiECszqKFM6DYqOud> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/-WbKUDQRsDs-4a-SLfqUxnGXW6JhTf6sqbmRrpYlAU70sWgEVtLsV22s3j8E-JE_yiXwD3skdsT8RqynYoa_bGo9zdux_8O5IUgwIEs4B9Zx71vfNjTcFwqY_JqwZQ7Z> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/-qq-2NT2mPTIH64O_xfiClWELL0ZLMKAbgwtlv-42oBEASVONxXbfmxeMT0n84kFNlq9JGijwEw_W7XN_vsEI64WaZyJomLIki2MdLIn_CxRWDUkKadNeou4N6Y3UZaj> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/1A7_Ty3mJRzm5fAdXT3zx0ITM--ef1DH1AEPG84jUkQBymUCArvGFlYSm5wuIjzfMMcKsis8siW_ZNm-4KKu-CM-09H0owXPe9B3xbjVE_W4eVcLNNxHOaol1CaVvHbL> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/3RsPEWjykVoEK44HZMzL46k4As7WUbvVcF3hdQlOf5aDDe75ykFV8nB6ZORRVYWseDIsX14yR-LSEOnPyQuRKc0fkWyjVwN9vFroFRivRq8KhPRekyQvPK-adMg_Xogl5HPxU8dv6VT3qoWQikTO6A> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/3VE6GpmgcRSkX6VYoBvWkv-ydVm_zJm861SQAdGF4gBzBvWF9SFsoOI4X29o76G60tbSTz2GPxm9csWpuw16BQERCrZgAP-GzZBYe_AcJvCBM1I9aX3h_L74e68wIMEiMo5SVwJamHDvl1KOgPvVxmDUXf8xEMZb_0AtAGAyXlaet84RbaPXsbRelC1kHOAg55Wk1m1TbSFlm79RW1eRag> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/3jwBuiB0_lE8UoFywdYQ-kbAJuYWUQCKDme251nTs7cjxJgvzBBRYDMYmDi4pKa8kW_Q5qH7jkXBjt9vvGXWPfbyO-M5dNUiD76TFe2e65ZqCUJQbQem2ctm-VDMcrnd> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/3suB7j8Bf58qMfo1rt6434xZV9SWDtKEaFaxnY9wl-NpnfZvASAaPdGvZtwr2Jj3dRrrzvwSS6n5-H6so0kNH5a5ZcgKwbIAR_frsJbO6xc> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/5RNtKDB30wJaczmryBidKsyRfoIssNmyZfSR8OWH4lmVGmNNxdYujFnV_4F0_OsBnCiPMCU6WrQ7_-zE7uKPDQ-kPoAYE42LLYyO74dilEdz1VuQxMOR-hBbCI49eAcxdnktJYjD_eLkfFu3S_YfiSZUY6sw4CJWIQztmSxDq6lcW_4ZEzmGTIcxmgfmguShdGdc7WAcDZ914Nu4LREqZyldOXrDg5Hz01Uwg0pIBMo5_5U9tkHiGA_p-NSgYyJTjuTYrMJ7fG-T5-CquXwuYA> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/69VT0Q_Z8nlRxoqWGi_Z2AihTsr85EF0SYcSQZAw5SUZN9muA_0rHu8gVjx6_1_7vgd79J6QndnguVcR-5_47Hhjf3zaTB0YnSujrVlzdF2qxHUSpNt8FYnFnOnACIjrl1pYFIsr0GmhjSI_-hQTviUcZTNMC6_lEc5tlJvygLgaYWSHbEuOz3V5ql2HbmoiqjnjmB-gg9O1JbQ-0v5R8FhkcnUrc92E6pH09o8rR48> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/7euL4gXtNAovjSlWtX03Uu7J7Iz5eE6xtRTaDBywvVDeOGAoZ-a3YkEBgQO8Nov-k7GqYwiM5KsBxfH6LdExtHSnfk8AjTL8-syaEz2Zc6X0d9NBPP3yBKkCoKNN3Mef> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/8OUqFsDHaJUmZqKK2yU6aR6EvaOXUwS_rJ0T6EC68p3_9fDczukXHdM5GlQ4rl6qhRpu0gtXIuZk4Gj_jYcUH1OWoJcipuZjbWvjPZYTolOZsF6Mtf4G1eklpU_Siq44> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/8PXwrcpRKs93tOL8HCgvoipNagLPIJqMakE1RpbdAwgz6vSBuNmTsRYBk_aq2p8glptIvLej2umu32e1WTPAby95sO9IuJSRKpN02co_DcMI0oXwj9NsE4WAh1CfYqLmNP-IgyAVggAY0AapmoMHXw> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/A1swHc8RJiqhMc9dGsyjPbj3vKzCJ06IH1oWyZT8D_hHsEjRImn7yLwVhNwjHmV4RthIc2pZNrhij8ik6Z-j96aMXigmbM2ByaGn_DYwjl76GzNwpoJJOa_ru5kIaWpdadbwWj7ubzH6iaWDHYP6fA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/AW9SjKMY5Zuq_cwJiYw0Dpf9ApxjbdDatihDYF8sxcZq0C9bBtHIHPqTivGqssbZTcOelDTOuEv9xb55pxluQRcad_Jw6qAafDwlrutR5Tlrf8jyL5lC7aDTbG3BIig5c6weGHNpusMeJzBlRZ4thqhPIPDdxemSmbC3dbo15G4_8Edr1ZXbWPm1H4pcWMZQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/AbY-lJqp4cFVm3Xa3VS7TayLd9asK9UipR39ELvnRBimVd2H4oXWrRxfg4YOPHflsqQe5NUpM5SQU50Pplm4saKOmrsfl10VfteqW5Lzzo76LZDj9wzxibJ6C1TFUWd9Tp1tarJ-7qQJG8uIIAibqOM7nobn94pY99ns1LOswb0THQmEF0xX-tCluCKt-cjRp3Mv7dvrImUxJM-GwAyzJI7Fv5azaZkPi4D1hI3Kjg8NQzj_CmeFlIv9Ca8syEKobR7qZwbIXolkNxPu-Ex2edzCgRi0Rc4C-SATKXB1gHOr9E2seXWjCmcGfec9dyhU-DZ7kDP9UytvpOn2LnG4WpTe-Et7OkB-DXNRYV7J_j8RWTiLkg5Ztwa-tSNeLc67AWj3JNQoTNqyqY_sgN_1oA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/AjjsEAE7u-0gHg7CNOeAFHn-i-0t-5gY-8bX-OcipKLZ_pBU8y_6Dgnq9S3ehX6XxP8kwodzKkKszbBAqo3jdNuiRlj1h0EKm7xJCBtInfOO711LrkLazQK8EZwJMw_N> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/B2EK_tXZaYw2Nvc3LMybbIFrUpCC05X1jpMssZk7IIhBlKUMAkZD2P90X4ZtwuSEzMZLBlhsg4UiebhMi1v3S-Rv8OQU4Ezxm6Ma8DgC9-i8VPtpQgHwjvqT6LbeeLwUj2mRRmMp_yWIk8kao4zLLqc0aAq5p5nzzs0jxA069zo9r1h4CKdy6a84X6CtwImFCxp0vdy0xbsvDpDMImb6BNkJmW41DAOT2nukIy_HwTHYu-OuROiV8k0Ism5eJkJMzHAx07Eg7sdBAs8GN_EwTc-TqPKx851m1C2RVMuPJWAXSwEKdUH4oCEVxlyP_iMT> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Boc45ESaxgD6SJ_VwBjx3q7KHQSS1E4D05RAODPhIDCniYG_vp_PiVGLVpaIHzQitRedWpfuAhP2dGHmgbWAaSRNEuw3qqyEs0DaSqdUx7LGbmT3kfzYvJjDa97EE0Q6gatOMU96o6d-G7aFC5lXtw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/BzcMvb31LEHLfPVB-xT0DGXhjvvwPecN92CdWbSu3lFDveLUz19xjn5TQ28ksjAHrhYzh-Qp7xLldrGCMGPihmyPsDtb7hU7cI9inKoz4c6zCBuXfVl1QtzDqn6o6vzU> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/CEuniBap_hjCEcJobyyAQVLUOY0V0-Bj3Kq6GaNiFsbu9Iuf8BHnX-fxYVN8lkri3metWgxmBWDWJRd7Lqrhb-UbhRga9pk9ccAFx6ZXju2i4miDRFdglbyMFmutvTSbsfZa8qttSFQLS2CkQtMRV4m528qaD-FOVB2nMLmSu9rVCSXMX1HLPaIlQbABWrSv-ybK4E8UBU7gBSwzS3Q5_NM_R-12pr77dHVBC1JrA94uxT81OTCra2XkStycwgsPulpm7lAUt3m6oZw1z1qJfQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/CzWH0Vzf37-z0zKefiJ7iAEkEQVtB50Id6CMCpx6nnWrFFXlv0iNk9pYwXpW3jNUDdz4afS_8XhRt3aWe2ldOg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/DWFXpeOLyeMswY14SY4Ut-86oPB8IEhWi18Z02O2iJpe41Dqi9gl_tuqaE_Jc329BLslN-JfjHekwaHuAEmUx-xUOtnjjbDRZ9VXXEWYXum7PcowAC_b3XFMWifLedySThMs9v-Oyy5-aFvxh6hqX88mx70Klt8WEKeWmtJaH1JUfT-h8uoPrjnp8_RgLPZQatyazGUDh9rOEZgk7rgWMzsNi41HTRTwHTslbYYjHHg> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/FFRNZ4GaujqXLfNsfpNWhoK4VX0eAfo08_sMgdHE9pigGpzV8-o0XEnWFOPosWOmgZPFKBcNWfRdzfXETSPu2obhn-bpqNNR6a2zyYHbRmY> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/FRnHqVLUuPtlv_K79TbAXD8g1sKqnowLPgFKDjQb2vkCCiaIBugASphBvzP2ACmC8LHEAVmvb5m_0vlSkDNISbLS40Daj6l7smbd8rQ-aqWg2Ey90ysB2TqaKVhmA_E3> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Ge58KpHqyqQB97xbv52EPW27xK-pqP5gU1afP07y4r53lm-wH3w9CDX_mV1Nkvj4zH3kh4XBZapsDgXzAnajO-V8z8dfgwcVdEIHVlLVKZHl-i9eeq35jwbVcZEPzk5xbMNo99MlpWvXfd9NpyKT1XkNp6-VPMskqAxuwBzzw6eXUGgwsL-HfP0Vb09TR_JGPRGfZG2w2x9kkjL03GiGQrqpQOeUVUsINEu2lTWdTIdijuonniulbrv7nwNz4t8kADXgxJehhY26DPxlHXHaRY8wGRHmUngPvzAVui3jgKMt7-ERaNiKDDaOXiBkyBTe-Tc72s5G__isYvNsX4U9uhaPjVdQa-OlrV0I5SA1kZKY36FveAHtYrLehb1IE8IzPuKqaMdElR0LQppkcYrzHGi5yKLo8iq9rAnTZGqV71QUBcFkt8i1eixpEsiIAAeHFnLssmd0DchAH9VAjWTcKD65rqFNDAAaE_qJIbC-AnuSOk4Q6ORTsdxlrVvREmqYk6C5PBs7aBpAzbNud4pls6EHOOt8byOHJq7ULVVue5s> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/GkmQ7_hFGp6wkKjb6CxWspDWOoO6w1E2Wizn-Ih3AjhNXxzP42pxb3R92hiQUuLUQmpRkEHocgiLJ1zrqb0b1ljEJbaSPUfdjANrW1jsKw02yVA6NFrPO0bIwEJjN7SV2CJNhxhVlsVy-sDQeUoJgA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Gu2ZItsFBty2_SmKk6F8WiyAT8RbSYAPWN85Y--S6M6QwjvxYn8tSBtz9huXMzD_VltoYmKtq6pre3aCSwDRj2fKBp5DkM5P2co_qv8IydDZDEy6tr0lQSUgm89l4JciSdmMgCQF0Hxf_jZH6i_mFQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/H5ycVNmJGe1dhFopitqkYSDd9VfERBhomaDo242pAHwqSfFViV9Glh3H63zRLg3w3UJC7j4gWnTiyZKFaSM3IMMbzSOHnfD7EjeNXCW2FcFBXK91BH9zbo_zNmCuH3BOGdncfnIu256w433dBpBndg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/HE3s7ZTiRYR6gKmIE8lNPw0ZQEL4KiRqHBpJulsteijrWKquoyk2qmdCrxVl7DXRFqDHHas_C_AotfFblGmA2NeBw4r1ABS-PXnecBETgIz15Pt7DTDW88hWcWQtdFS4E61T6VaWou5XRHg5UUj0LQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/HQ94Jl5PaB0z3TTiaA1dcQacftBRZzsA2W7Uj2eTkc2SRaK8oFp8BkG26C1y1XgN977EZTbpVZIEssCIyKNWPHDqNlEn3w0X97jTMe13IMKlKP36XpUwCu3tkisqGv8d> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/I2TsPqAjX3JrRmvvl9lWNdj03uEOMpVpgECSI4161Tcd0oe1QGcigOEJYFxTCDV1C17aWMHQ1ufAa0FPT69bOp5hVuZYZYeufiNyKQJQuGlb75ojhYW36yZUbt_c77z03IABnhq4zKy26ZveZago-iWgMM9Yww9jSB8jKBxbJZMZV2d27VpkcbrKWYciEaxkTwqQMOROV9oCUdP-FIGus29tPNz1-R__tizyITnY2pmKydgqR-MadmUWSWblP5G_DeKXwePaMd01aZYLRdNGXA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/I7pZUJEh8iloAuAmSIS78RWWtpyOQNSC68rz4wHFjDa1OO0fub1bI5PT6M98b-zgSvFJ8CMw8eAyNi6LqhxaBx-NYZkHcCcOb2lewX-DSEjU1UAbXiyvo4fZw29aFPUo8oUsiza9AYlWKYVVdr5L93QCWzeqMnTJp3_5A87AczZH0SOLWT3_MrXF97vy4ftTt0hKIpi6pFVmDW3zvgKPhROd4lqavGzUGs1KrJVgK78sR7JU61yPnfyIh7jKCqIipLqlv5yIn6r7gCFxuJnFQg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/IUN8rj7TZrAR7wCQltw4sOBJ0P4_HAuINoZyCDUgrsQ5bGe-ZbdjSSc7myauX-m70peugJlb3aN6nDqU8Sisw1MEJcJtYhuL-8FkasZ7Nt0IKhcvQ5L_3sBavEi-9gSPZmh6Y_ZbYPUOZMNzM7xkMmlQSGkMKSlvhS8nG-DpuoMHELPEChGD-QXSh1NgBAcf-0LfaPXRRcVxnndcuRYS9PzeMBQUIUMQcFPBq1usp2HvlXhxY938UNzfXfLprtqy> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/JE4RpKWj8lS6tbz7jTSXadKGiKGVpmPaRK0qDlF3rT-2FMDbPuoF21My7wUz_8JD7GZIOwB5hPTQe6Y22jUCTGdjGOMofw28zc7yerUC8D2RxnQ7kIcu5jvDMekvo3o7> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/JkqeZsZtWc5IaCVBcsgrfgxAJBvmTHzgh0RmvMvLbfG6lgVOHqdihe5C5P8T-S_fFKYeZV1us6r1OCY0bRPyzorCqsRZxPB_VEFIA0HOeJnMvsHWVmPeTESz1YJlNXxJNmaXHnoLcURZK7R6yNEz3w> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/K2qbbrqvZOD93eWjEuq4ITHzFdqJfM2LXfSDQj_iw9U8k1E5A0on7w3ky2DFPp-7yLrT05MKO2bpa-rTJY85n4Vp-_paWNUR4xnztCdEcMcrpowZ5hzZlcP1gs5EBx1gqkH-633ZPv5g0GT68nXjF5NDE6SuW91aEGQ39KLkRL7456KE7BJ20ImxzouVifWGlfDRoCwdu3_5FbHOWgpXlpG5qSn7rFXwOV_KQ48EGdw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/KaFwyh0MCKpfCp1BBldV6ZWG114gn--PRrF_J6Tc2x-RsNNMvr3rsEpnpB6-qjqXKUEVjyQIHXj_zWM6jpfzNomc0fmRFypmTioImRCxJf9cc9SIra3EpCbE2dCpPz_lbKQkvEDmo0-yhZgty6veCO4leJ9NhYDsa6FmkFa0Z5nID8p0oFpOOCkHwqhWkbxKk4QDMd1gYd_XZXVsZnLA2J1QcByveV-uZyppZlS9zeh4at-waIXn8LX4ve4vjD9Kh_AdjLgvcWQ7dK34K0-Tmg> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/L1iMxsN2_2ldVDlkpwE-VlMB9ssprO3dbxsVt9KocxOjIf3ASDpd_FgEFFiVABf5JoDtM2RoUj10xtEeqzBwnRKFkpWYoenvl6RkE0vO_ZyEfbH-6P0kZH00B4JQRFkd> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/M2h1IEsc2b8ogI2H0WAIsQviaka98Fns5NQ_d94nh_O6NNqgD9lNJOs-gEJqMKLYij0wUd3JrfFSxtWUzTbcFGyIHHkqOOPGV2Fv8_2Uv9171auE6t2PS153GpjzddYBZIAa5o0aZVLZML-6hDCcSndjy8QAB10iBuELe17SC07h29neIZsVZUu8V7m_zEg6HgOVNg9oYlPX4p3VXA4E26DDvB6cOdo4MjkpZb5dlaY> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/MRU8YQvJcC4yKNpMdZ_VkA7EHXeJBsvNZlrxWa5a_A_OZftIG6KLuJqg6KxwLrxSzkKSmRayq1dOX1uNLbfwpQGwLdrR0NWrJcQb073XYpxSSzBwTI6HwRMYniYG6LMr> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/NurI_m9bnvmM4yC-NGMzFgmKiAPao324lAThrTw1MIIkEdJfMTAGt94hrD1PjpYdwfNlUV4bquh9gRiblzzO27V7JLbj1TVAjqT8m0Fd9Jun-wkMrQGBSYS5EuVbq_MjN9FCMGMLws8QtMwYbHWBwts1QOdMkKDpbkKSB-YHoek> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/OM15-P4lHlui14jlt9IvXeFfiXHdPdMdlQ3mcTNiNOsfp8yDJj6UKzYox0AytUMRvRFyPsc9G-ERsWhJMa94S1pmXHf3zc565mZxzHrDmjGOfkEXCI49YlnP6iAjg6d12x4gD1kYGiOFlT7DuHVIv8MvBVhovSHy-4JTOfHO-GpjoIyxLbQwnjyckWoXhjHyUEraEj5tYLgKmunGJGZkdNL3rt1tfqvYkqLwXLgksHZNxQX2zUNlKunJTyRYxwTnxpoaLkofipyDxyg_vR96IA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/P_zxX6Foskui5plfqgOlQYtowc9Ghz3QmSL5cJUkaOVMcDpwdemXgmkLbrwhQOONxFWCj7m3dZkMEOO5LzgyfrU37tWwi-kpmpT84AiVmDobFa_tP07yI6dh75gAk1jNod6cfPzax1vFqRJdq4FzSN7Wt0cYG3v2w-GHE5UifKc> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/PrVSlYSzLqByDHqovMbWbKxcu3pMNEzHGn1XPBjzWWYZjZfdlha5I9UCR_Mou97nmg2nN0gEHxodaWLBZXqM8Rvu2aISOxarJgTRDR6lHNqldyNnpH-X7pGcQvECkr4wtUwfV1vhT7_07cvKTvY73vzGc5M6Nh_Ry0IEARLZqxJCJNtQrGFofzmZZubVRUbEk8GnQ7badOswhMzQFfEeqg> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/Px3_8BuEyK7KjKKM6kTwntLPIp5fFK_moaY_NCtidTuwiNjsSJ7-srHCvS4tjCFtNtjiWiRiCOB0I_PFQuWc5fuA-AwCeFXR-QbQr7l09FxKah0RK6RMxjhka2MDfyvOY0v1OrVemOWgfI4Hna6mCp7f44NSeO0y4pxq6IYKWHWOK_m130R_AuzE7v5IBA53> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Q7BjPhZJdkUgAdpO54p0ZoUQweyd9iEO0jZwN_gkN9xCFlWGo7ND44AhCFlVkk5OTSjv6SD-KEPIx8SoY_6dKcEE6Za6DTcLgCglwdaqPNbwLaW873smqS6I3dRcxRvA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/QURB02tqGedrIVBaj4OobofRihgYWC5LTA1alGp4w4LeMI1xmkPYHNrFGrv4GSA51TJm0u3NPns_HQF0BidjBfB1d_YncParz54qf7e6pnVDNHwlXEWuc6Mvvper5hLn> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/RPIu-lCckjoae6ttgryfDS1xLXUYxAXEEz_5nzJv--tI989j_F_sMIepcir1JKVNDK8SoT93rNAbWOvRx00b8gdwDvHjfI0wVvSi9sTmq-ZW6KMfYbBCGK5zW0qDoEyH> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/RTbkujC9tzhTjgY2my5HXS5P7THiyXIHNm_bhGdIzwXcIljctMxy-xS2DoGg4fyaBa1SRwyDT8vksEFv-Sdfz3Zz3tcXU1I2QqGCv8t1b8085d4XrCSuvq35of5UVRReoIH8Tw66vIm4LAcCb3S_2RXblkEL6NNRv-d7w3pRWwkXwP-qmbtU0irViRTJ4DKB7zQj9ZtlZPW8D5XwNwyMug05QovAdSGSAJWAtVU8g-s> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Rqs2SdzzplKbVHu4HRbPeZ7Ga7leZ2o1mPllKpKRHmzPIokp21V_Sk48oKI_yI6x18ZeWXmJ8bqYAsvzKb89vuW_KLMuRz8bBSclNRxP_RFwDAcNhXu6Psyidxc21lLR> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/RxqO4frrZckFcMI37hzCdl_v3cUuZf87U9n8o_wrXV20GaB5_ThH8EIc47mUIU3EMHUKIFUp4XywdWTDLnvAxAaqHfNnD7iKkneY3x27DYG9k1bBBXieMzmpSZDQIONp> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/SDz4D7ZHzo_KpUH38FSyDnO9OWxFpdu5L1DmepE2p83XM6BYYOqFJ1YRWqpIUel7STWBJ5G4BPAsW72a3lRUnHus0_AaKr6v9a40Vzd0Ioankxr44rCpHa0GPidlpWNn> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/T9enGWyMKEpEtajrkdR1oa_u24WdeETnIALSxLFozuhoW3FfgEeBB8WvTKpWH4cOSZCwqnpWfdJAdK4uabcdF808EBcgJ8Kwjz2kQct6PAfPXrbzLA5Tzzo62_ZAaIOkGJS5BojOlKf7w70LG0HwdB2uz7Z5j0ZHVS19ZjNtF3YB0bW7CSkXFyHi9E3wMitpeQwqk-QcPBasL77g37xfzzKh5YssU7MnUUYCDyw63Kg6IeLzJzVIh3M6cJDFwTnzbSx6jqBwzmOM__GzxXIidw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/TbEcnaHxxuAlr_9_BLJY0dfeN7cqJOA3qVo4_0udffAAZvI-UhnrxPkKZTqPRW_WhXHMl64aRqcRAq7f1hxjiIUUv7ZNp0nyfokpg3Ve_fNuMcZX197jWiwI9vZIxKH44OY0gwp1sLnPlUSo0aMIpb5TubDlTcJuBSRY08h0LEWrZ6wao7SExoAoGJpcJWqy7XowHb2lJHwN4qLSpkTFLxcDWiLyc-5__bqb6eqmrOLyN1yinxm1AFVk926uiN8qp65yOeqtuhIdJkEdneFGZHwv33PG3BE58HsHcEf2Ao0Oz5aqVM3hdqtstCSDX2ICLpNuKR5YBKAd1GvJQsTL7w> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/TeSNf0IW6omk8wywsmf73sKK4gDg1N06QkTuwTG2rTKDQbOkVnBrUjDcSDWLEoSjoJJVFrqPMwYUS289_KiDcnLrRE37v_p3PuCzE5S-XrMA0vmUzZu3pCOpPFeHBMQG> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/TsETkj0L5EJviL7xYIDS2gaazjIUa9oR4nHJ6aftw6ZpEK90klGmqXyGGEefEs6vtAVIW5vghxtsnJYDMwx0qjhOwUfGYJgs6En-2UVlRfODBi6OmZgYE3FOjj3N3K-njE8pyQLHJrJoG10qs4QzJC6ggdJX-Sax330CZrFcI-I> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/UbcORZF1PCrD4SHJSVYSBdNYiJhLFcILYyo7m7uhgRAaXEdXzUuKkLWH-p0NY5cOquGuZoY4hOjUJr53uKB78SQxeM6kJMeDGYHpweh73vmmznKM3NbvaBtz38RV0CeleTQXTYVPFHwYaApJ5yl7r7pbkD-D_9u-sUrjcsbU32HtMdBFJgiW4cRyHFlAGn_YXWa5KEd38wV1qM-IYQu5ciuRy2rkD7Mie8kxDCIJ0Uc> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/V3oywZ4UnNKLATqoVQd5X648KHAM0Fk9nHiOUQuBWrEFPWecLUFxsI1IYT0e6FFWqjrsLLP8PbeQ3A0ROvIIayVCObQfMdhOheP9PXfnNgZHxf1X-v1Rb8feze3oEQnk0G_psev_l7oZOz0ineHIg86WTMEc-3jnoE9bPwC-FIvFmo-XKz-WQEEeSDq-NjJm2lg_A2mT37vv5tOV-BhoKA> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/VBScgt1iNjG4koOw2o6uefi_0LQnRinEesZlkdqQwo5IfVZ1d1s1x5LWd7yRLIEOQPwIXyOL_P9No8NgfPSrL5dbh3N9wqwSVUV92XkvlFeSpbX7PYkufJqYo5OHcHp8> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/VElMJ2NMSTSNaD_DzMmZoWJud3spzUIDItZSLeotJxRkpzwtmHoj1cDaKQTN2aV0D0MIb7u5SUlQAgHWSfhA31o9zv-kTdLwj6deTVPxxELQBSbgXGHWgkG1l4T1L9jWAbR-PV_uj-Ky1ZxhcBg6IQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/VK6aGMeAPFWccSpTb4aPLwC5I8usvaPf9mRdBVV_KVHDh-bk6tWWissEQvCoOR5SMsgB7-hCecgHf4hlqEcpyk3_9nCzuuuleHTd2d3nUdPAo-Z_cAuuC1hb0OjV4gVW_y6HiXAEELAvyj_vQyOy8A> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/VkoMVGbFFXBzO8mi1GBHKPE_XCYFP4xvf8oZtA3JcfnIhFbp8wpLczVBn0Zq9y57rwWybS9DSzh7bDsbJyqWakhSg_tBLns9qhz_SGJiu2UnqeuHY4uhz6ca03KKOIXf> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/W9u41W_HVf4u6GV-GxnPN7XOjyZCm6XE9dZne5vdWAtvmjmZFtiRNKVLC6w7seikV7cWP-PAFU-Rh-Kezb_nDLoYHCUTwe0qAh10Bfi0aTXJl17kGHa4j-JzbgB751Ej> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/WIU4Gt_x5PrMjgsc9zqcgsEMqBI0HmBFSyi-rkNtND3Z8YFTWZMbN7dwwE6alQLr7_FLJjRmcqzUEUgPcOWDQv9ywHmrfTvsCAod-bPNQazDts1GGiV7NgI2DfPqOf4QuFhfK-CE1uCR2_q2os9K3w> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/WvfL26NwgaOs2lrZP9F61phIQJdRcz6t8J53jQUTMcjeZsaXlE5iq1_-WK7S8mqilLf5vBlrekyJePG14bVUvZbUrf-qE8Lo89DnOzMHTzUFb92-rK1C-ZKayB9IpQ2DAJVVWNDBmMWoy7IIFDohkAce-m3k4Anjz2qRJeN_6WjsddrdFATySvG80_c0ThtU8SdsBY5eKAOYz5EHrb1alw> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/XInTyE4nzZ7vDtpH8S4rpWcdG-uTATfTJYgRpgbdMqWuFYWAxBqAfHPmB8CnXwObtfl0GtQbsnQyD08-qzVPaw> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/Y-pbt3RuTbiWMBe2-iBFbE0lAF_2M0hP0WMc_VcHBnnYegerVq2rcB7KgsEzTaJeRy-MBwODrxY3Mt2QgfDywIBtWdVQbi2FXY52RNSqHJrjr8MxwQPrFepZMox3QeeA> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/Y2Aki1_HJ_ytOmPBCdCuWUr10MYEsy4NrBeGpouGlmtHrPJ6DINad7-Yygdi1BrVUKOaxVNSCwCITevcJP1h_SH0q_-7KYHyhKrEuyEqPmyTT5OSu6_-sr-45win1v75xsJbWmw5TV0PzTQfdzZoDteCQ6GpWaamc29aMrwt0t2k4kNmEB5TNGRUmDIAK1FZlsWI90ivIPxjTuRE32JjnpfdWCDGeJlPDGdweSqE7SNmApDFGl0-e1XqzphwzFYn> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/YlICE_NhT0wCfKLUvPx6EOHnqx1zlPPr0jcsF5Dduqyjl5EujvNmcfknZ1A7-TVmrqDW_aNmgzYjL2q8MVKls6gaaxfO4DNjMaNS1U4qLeJo17ZTgTM0RFnWaDelDWif> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/Yyh7TUJO4D4sOacCOS0KqPwla7M2z1hhWe9czkOMo46MTDFsbJnvfXQV5enT0iHRP99cMvglp1-XnJD8rJpCfsvfN8JbiiXXADKq5WDyzpBVQSVxHRYT-CIv95qbFCWN7PP4TQqtZUz5IQPdz-sRIg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/aDEKCcvkHcz1JTe1mH1tRfKNlLU75khpiHK8nYx_LZelpOFiM38SunR2Uaq17CDc4FxdNNNBwwaTa4cJV8Ny4cp_WWSg22_T1hCBR3E6PSXqZZ30Jt1QTYiGnRVr1gHu_56hkQaMA_I5UpMSRnuqKJy9gQEFmZjKSq9itLXNoUneY5HyCnZK-LQdWm2L_uk5> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/aNGrfzGzTKZiGJpxfPKTWSKzXuzMeQoTb4MtpeNort0SMzhlNLN64JPEJzUgw4N_eTqD_AhbCuKb6nRJevuFa5JuVJJeLqFxouWYbaONDya3tekiFm2QcXACB50ByDgusUsXZD1u9A9wtm2tY1pjjbELU-ivUk626I4Nyoix_fFD1s6ApDHu2QQ8hDpBOYznuHO4UVOyx5ok6oZf7FviuA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/b-ZNiwrl0ZPBQ7W6Pfl9o27MiH5tjA-FcyTZM3-cT8mukCzbwQh0ICpvyB_lbRrJry3ZmsMH4PSPUMijoSeLeXpz2hZLc3XrSpD_Qh6x2IQUkTAdrphuF8nIIu3s9mI7oVY33TYeByuMUsA642gYAZmurpn4QHVpjAI7L_SgeWo> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/cJzqb_Zdrt-LcEP9hGMfgJSSL6NCpS9av4sxWe-CTPkS0lOZ27rAjDkJkrFVYTsqfTrJbVjZGFiXEC7FVL6VPOrAu7-cO8w28fRIyMfGBFsPD8ZgxgxSFEzbKmyFGEXEwQ4ltv0nKgathNDvsuc7Fg> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/cPXxiuJf76Hw0etPrFiaWtiyAHN_GwXHCULh5GD7EMOdxKn1MYRIsnAcWTAlx9pKiO0jMGFRULheVesBhtFxovHObpfyDlg2CKc9-7RFzbzLuMWGmoOjihmyoyQGUvvK1OiE9qHTxjjibD6an2bDb3xEjudu4g5sq3SBLN3fVFHY4qseXI5ITTo6akHZ-7by_znxfTRJ5dQ1D_5F736oF-Rb89PYypJSKCFYIYdD0Sg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/cUJi9uDw81EBCdJ2mtzdLCgn_4lYiT7Yy5iFSQKIVCCwKbtosFibmok4130m4uDKfk3F-FOhUCaqNzIGFMK2KaOHz9QXVkfIrOs5Rf0pExLVOGfOU9WPupcVZtx1ZK4dwqrCGf7_HCrZDGXgqCb8vACiPs3y94wF5IsK5LhfxU9GZhk0HHlNa8BIIfPdw9cyBjWlERoyTRnZudUfDnAE4sShIN7b-uIbnCVqNe3jQHg> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/cWINRgEl_HEWJ289m4OzQlFTAwAoQFS1zXTS3FWwchuNTabqX1tZtbqdl0FNsUiDGMMMdqVS6oSKwX_aefmksY7e2vwtHrRz-TxkHtxskKzRHvyo8EF_YFz4sepuRsFp> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/daU4cuqxaIvEsf-uXeqyp86Z2yekHk4CI32O7zNc7XF43IzFTtKhWcP32HrxTUOI5_-qEtgWSW68J6sQp1lUkhqI9ya4UfIyS3Elcb7JH1X607sRTxSGVXzTMxJjf9QO1VbDrhuuXRW1PvGn8IRC5TSWmNBSJfoo9eBv3XDjlhI8TDseM5p1gyjNMCUEvOg438hzZ5VF5qmEqZ1ltJreKJI56ZV_8RTg7MfgNpxTAk_ocCB1gkMjOeu0I57fLDgW6_P9knBTzzw9qUjqTyF6yub7i2r-YGAY1a6ua31fIQU> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/dcgCLxYddkPetv2DCXIsWjoWVNhXZtxYbZhFbyde2NFUbzCTJgkvxXGHVnIUr3QXgagmP1KNZPY5AxC7fw0zXblC961wZSWZwagfAnRAb9-6nd_XLb3G0VwyabSjJ11M> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/e9G9JNb_BUPNASkMtNqsn1uTOBxNJP405eanohbu1409l2ribmoXxsAYyKWakJoB7kqoT8ORcAT1nw38zpJdjKaJQPNacVhdgZAHVWLgy7X0MWPVV67qWqfNtZXFPT5zPLsWSELF55VVd0XCryAYcztJngzA0UWKyFDSZn6gGWMYjhM9_ALKCs5n35s6A0R5> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/elasbnLu6H-4WP3FEhGHN5sR9d14qZGPyvR-GYYoKM1oRzYG4SPEUD6Fj3sj9nMYOtTpyMhXTUu2ZmHrAY9lc2HB8FMD5jTzil1HieLMBDk> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/exYj8Tg_2nQjwyR6yxRxge5ZZWqwl1xNQ4djVX5PGjqtb8oOVH3RJZGj68Te5Sk_FtxiSUOCsCcxHr57BUE3DoMb35NF9osUkFd_H-Gij9ZiXEns_LQxxcVqAox0xUp4aVker-EZFA-a_mSO-lXgiMYyA3yPJdY9p2sCbdoYfChIeNq04TWu9kzvV3CIjEIaAVI9cwhz8qNiNPZERrl6UKFd99iPYov0xCB5jLUFLjnn9jKxQp2OALT7ATrW1AOKqYOwtC7CRO8JSOAOhuyzgAxKve6H0ZtC1p_ei_VigIQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/gFpPhQOAAM1Wv3fbw6SG-bUbsqDQaWh8X2DBn0Y2IYxHCYhHy1fIy4ulQdfAJrswZVJMZbBt9aP_o7q8KnadXA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/gTDnFBqWfPBI5fSdCSBR6lEbM-mvek_ZOBxBAqTbaZDugWl8RaL-4hIkVG3RmSyJIC0vwrZ1ew_mBYl-WkpraK-n547CO-sqNVakLL-IbfC0_H7xSanFokwatuSTKAM39L4YdZJJTtSpzYwU9Evu9w> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/gTaQ3cI4V8CCVlcjnnyDz9PMIyfi8y8vPbR_qb4q5RTPTazl-Eh2F1cdF25ujnw57u2C3KXWN6ThDtZ8Xxx0IVSHyIFRtg_ZyviRlKlakjve-0lvhVBg45vrRmnAuhIhGGJETL18EW1qeXYUnoufLw> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/h-4sqJbBXKDC2mGkGsK84SV1ZsJ8G1MQ7LmJhe3F0fAb8hvmF-vEp8KKjRj--rs6uk8NEdFWJJFs0opcnJLnoo7uqk-ETvjS0V2bfZiE9XCB6byeVTLs4zfPBiwzPNUm> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/hqVhGMhEZWhDChbP1Xt_Zyh0-8cRniPLFf2YY5gY10Y5Yz3vmUA5Ei_74bY9AZzcOUJfL_Fgzc2GqS9zFSICSjRjzJ12a-Ys0jRS0tEMRyPKASteW4eGv4wX23fmz4y4MQN3ywG-1_OpHtPZI4lUf1Qr77IJmDBCKtdDjw0PLWvNCbvhPxhmfxZA1xxxWhT2p_cQ3jmHPs0hLz6nF4_-CSvN3SABu8Df7oLfvmpjeD4> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/i2FMqijF2AZIyCmEV65O2C7qAXy7uSWAO6vfCFzsHOtBmgmOBxkv1inuZ-oNhcPrGw1Oy4ppoUEDrNR0KujhHNeaTDJqbnhpp3FkeB4-vx51l0AJJja6iSF9gErdqXsWXmZeNNWmMIQ3UMWTxCBWVMS25iFFJFUyqzo2ZWwP5h4xN6rI0jrIF9vFs_qVbtuN05tzYqJ7_lOSdLYbdQ3nOzetfaVW1yn2TPYkxxug-ZM> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/jPz0M56wbOvoJ-Ct_HXVhuomQYYyEhfJLWxj_fmw8EFz5UxsYYthuzDKezjhQFLrHOiZv9GDKu0NL3uE1WyIgqUs95xnaC4KJQl3NXvFamo> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/kbmHIvdSr9PN8UUPZw7Xtinmghan05Ggz8qpqLLe2G036f96yGcjRfbeZsqHtjHxjMYA_CLuS8DhwlTGkori8Q> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/nDlQH1QMh7wmxhuxcPyEGvWlgA2Un-pvpPWDOwirKx9kxmMJIhAu3zRu_ERhZHmzMjHGn1q8BjT04JPpQYqwSXPOcvjLcKVL9BvFEMmts229RDTUX4li7M0oxgHwS08Y> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/o1RC38KIrAffx64lV0aU4PIJ5xa3QtGIOvu0cE7FaLx0ddesVgoeH4_oUwtsD_s5vWyKKqfvYUev5hTAPahQV2hKHpFGNrjJWNZeaJFuC6G4kYYz4ypeRnc8q8xUIqPdVjstX_BXdltdZ_ZK_G7umwd8TAte-_lVW3sqlhb2P0bVuokGtocStAE5F83hyyAh-LGPSKp5nz7xpgCrw6luoDVSH_V7VNWSIqfKdU810WJFtWf-I-ppGGJpyLRGj3EkwiMtrNI3at9o1hPug4YVGQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/oXWh1yDtCKBkor7JO-9I6-EWpSSm1KnRIEhne1qECdRzwY_SYet7euo4UCjdlAzIEGWFmeqtuJiHV7bX7GWTDNoHRl8OmNFY3aNGUDBRHgJK8sTnjwIn6ukaSgHlNXmO> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/onDr3oXfZ6_4HorjVqywYO6iogcPhikBJcV0TDRXH4Wbptf9d4QF1GvefZSZA4i690CNDApc_r7xoH7nbdTVYMckFILHkQH2eyeXOWIkpTzEfyuTKseUntLDLl662y9iGBYYIAEquo5cjgBw5kQBsDDhoNrDaM403cS4RvnQ_eYyT8PAa_lBBVSz33B59RsGQsVgZ9y1JuaIdSkjq8LoKKOoGO_mDH74Ai5GF7zW1q5-ZiP15ljczszCzz06uU5S2tUuD_j6e0Dm7SJdGuKopbDknP-Z5yeMyzPYfCXbc8tmLX679pjoAmOqhiRp4mJDF6ljluhpEklR8Nqrtx2r57VNva9XS8O9rbkmBlLFYV0> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/q-mIaOfQyZONxfpHCr0BOLNIT2c-TxF8DH7zhEllIVLQIyNrSaA6IBtiX-Jnh6VNXDK747957G67BddSjIIFglCeTsuuPpo5RNALkoCJDyOY1t4xdFSlor2P_FSqIk3j1LwjwiLwWtOFUuSFmXqw0eldeNjYNhesBY_Eygaa_Vby_C7P6A-RwNZ9R--ZybURayBf1j0zGlzDLJPEqDQfnQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/qGAg7A0ocLNch0YMEPWv9Mwk25YOq1iOMRUucUR_Xt3Elx3BrcJpP-mrx3hDpYyom99fpw5UFl6OPV-MaxAA8UNDINUwRkqTyhl5N94Zm5yx0mX1kec9FXvNv5cZpkzU> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/rF5B3b9aBOxEXacEzKU_ln1Ki3DzeBIDVOvWtdmuv7TU3lTFVf6Cf6pWTnel2AuvUeIt_DlhhLHV6jyoWhHlp3yArz7cB43z5FwxJAKDdladGuBcHJaDX5J84I9Ehzv64jlaL1GpO3yPqAyURAa6Ug> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/rgrDwcDupIk1A9ePO-WETvIAwhUEsxNFeUKbZz_xlu-B6Vf6EkESd6gOrV4tWRbxE7cAHPlvD-FUnE0D0gtCBuwF3Yo0ibVbbYYWe1MlVbBrVj3YXBTF2_U2jh7Iw7c-rxPQ2qu7Zc_Tlu3l9fNN5HxJ_yXwkRhWWe_tdr9LQlHXo2YkhjXwZxyeK14JMGfmPmFio1FOwqCsSa2sES2R90QM06ATElK8yH2Y4RoRbNRD0tASH5Hf4TKKAfL0zfh1> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/s8OxKycfi0iSVYf4cbkw9fckBFL9KGifGOGU9StO-k76X18_sHZSFCiWAv0lhd_cYCsXYHbdQjGbZQI9D_ZtW5s95u8QGWwwU3Cn6mcfZWgdnh7C-Lz--ATrUSXAGIsk> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/tRclcbXnUuZqzs0UczS_Yy5wnPPHG2KM9OeybuL9-h61ZbVYAXp7-rkg25WjTpupC-zbwBpEZU4M0--WK7jE2FvCHnwei3SVhCq75NKZMozXB_InVpt7N4yDyRTkXu6xWJMjlmvU8-AtXAkGSHmTM3kUwG7NwcyBsxkjcWe7WGDiMDPqKspOZPUV1h6NT4OzPAq_CYVOqkZgXyAjbMpiiNhQbqjUf3AaGfw9SJWT4oqTGW1LwLcFrTYKbGMvju9XpXvmhb7EOzzpox2Qk71XoTtHHqTzFeLhpCRM7kjeprk> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/tW6yCu4sJVFUzoCrpqUOkIq6KyQzzT99ke4dmnuwmqOOE-T9Vh7U15YPVNN7iNYi-uUn3FQnvLNJq-fvNVQ3Yfs-9TBKSUE9QdPTJYBo0rNILM4-TeAVjxImWwABRjcz> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/tgEj_dOnhCx94eU7wg2EU5FrWioCc3C3Fs4Ryyasqcs_fhonYeFvcNbUV5VCyOyROh4V7NWyZBqcLU0dxk7WNvn1KdrLHuwJ7NxpxacAaebpTv31-qVFQuduFjFVaqEIDh3bWYrCE-9fie6yJt4A8yU5PyTmueNP9o6tJUbaJrCAXaknNs05yflPeSarQzl2RfmPN1EQ-CuyskPEpj-Nig> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/tvh24FvxiS2pz9IJ9RlSz6vqPMtxHbh_k_x4mhU_wK7u_EmZtpNN-tmw5ZaOYnxvQwPj3ct-8szh99bMNzYUZ5ZN9W7e_2r3t6xLnLGB4rkogvl7Pkzp5PrXqtf_QMnLJuBJixiWoM0NxtQEqyU7cQ> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/u_ZzSfD02MKG6nNTNL7ACZnKU2bY-L8igKJWxpdfjfPuKai3yZA42wbd1v0q4MQZivxS6nijd_b88xsuUXYvIA3Hsk8oVp4HbvKDvKgIPCCEA9e5QGY4zhW3YSrmy9je> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/v8-ef3gnP3kT2oIidV9EZDmQZ2lQk_XQMyy0XxjBbl6xgrpwuXolTa3_2i7NmVj5No2_xQ1HIWf_u1n8vrQ_h3PyJpaLF9UVIe-MYdL36_GlntkQUcGwbW7Sluk4dHmG> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/vFxfJiIr6sLnN8k3kt-P-25aTAp_w7lI1mHAXOHFOgUfbgjpwMJnxxHC2Kk9G40QywtDg7RqMuBxUZ742g4fmiK1kQDxOhMZcQZ_3plN99lNBHcPGRZckI2xAdb0kNsCz3zy2QAQtDMA03tZNfCatiPCKMZ5BBhCzixkuHI2HfQiCjQpwQ7ObMozsySXB5bkaeEJr_bOb-IWEXXMGJoVFNxCurrhLM5stOGA9zjQgLM> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/vPqlSDa3_uFdgjxXie1EwV0YJ1t2ao3iuarTZKzPq8V_-M-ZmdcqOLYNFiUX42W5M6jisvqdnCvSNEU3ODINwLJiBq4D23Nc51bPuppX_RcrYK0eCfV3neC8f5Dh40xuHtsF7NMtn7KwWKWAWYZuvHQ-pj5mqSSQXnTFRBVM4vWAVqC1jpnzQN8gcpFRXNuX> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/xC80mJtnoYG1s06cv9uKsuH1ene1AqeR5QlWk321uF5flFTBFQLLGLYVfE_36WfcL3OBHkNjKWPgTLEwT_FY-rif4I_RQTcZBqY2P-Bug0lTPXJZjHHbku_JO1sjO91A> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/xQfDlMVi15eH1EU0a0A6Ic47wno3fqSov8ec1W0SyCihXrnd3j-BY3DZaR29CrvwxZpA2e7E_ybd9Mt2SC-H1dmw5EeNfQm7IpmsJYqxLDA> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/xfep_FqvGgi8FJGPcemswHBi-h2_HzcdgJ-wcpwdqQUJsZHtf13yiGCVOyS-KFtD6sOe_5ZQILPjHHPm9s9S8A4P5aNSBxT7yXxBeHG7PzvyTpyEbHXHkhB40IALUtk2eoJmWdehKeNymIx8zXPI2dsWh2pRdxEWQi3nXgxUB2UuWRwc2p6mmHaOpkHAEsmOJ0iRDvtq2OPcd_a90A7pUJQz9WsWfvBcrNnWMnvJKLE> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/xknLXg15IJLTGeueAqGSKicTQZp4y47X35zI5ZyGCzczzWyxX9QKWsh_vObjrL1FW2V_9idNEBM0D6LVBCu94vGju_Hbll33TtQ__dcfAs9_5qLuUE08pnvzcEISHNHexC-X-LRzjnQoFDW6gTqxkA> — `conversation.safe_urls`, `message:7:metadata`
+- <https://images.openai.com/static-rsc-1/ypWKmMvLIjA1IokJ65vWeSnYpMkwA5ghQkfAJZ4lOVow8xpSGAqlS6OnYut45EC0u8e7rZEy3f8EwoRECJxHC19RQt2-SEJsx9abQBFgfjtLIlVZMgUhhGFIeyIrBXrTv0No-IFydwwlOyivuBYG-g> — `conversation.safe_urls`, `message:4:metadata`
+- <https://images.openai.com/static-rsc-1/zXoIQ1-NIhGK0mpJjXe3-wlYhgXnTP6G6XlUqtiHiuxjMUiiiSOLkAWTedsUtX6DXhcZ9kZVCviX-9mi8QvZ_3L4_vYxo2pZ4KnqZFFVx4Yggrz_P01X5Djf7vAy_pPuh6mFtFmBkfFhFX1N2iXJWHrThWi_uTxkHJjmWlJhNz07iukwuA-1MnOAGTdelek7> — `conversation.safe_urls`, `message:4:metadata`
+- <https://journals.sagepub.com/doi/10.1177/2055102918796192> — `conversation.safe_urls`, `message:4:metadata`
+- <https://journals.sagepub.com/doi/10.1177/2055102918796192?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://link.springer.com/article/10.1007/s12671-018-0983-3> — `conversation.safe_urls`, `message:7:metadata`
+- <https://mathedseminar.pbworks.com/f/Dweck%2B%26%2BLeggett%2B%281988%29%2BA%2Bsocial-cognitive%2Bapproach%2Bto%2Bmotivation%2Band%2Bpersonality.pdf> — `conversation.safe_urls`, `message:4:metadata`
+- <https://mathedseminar.pbworks.com/f/Dweck%2B%26%2BLeggett%2B%281988%29%2BA%2Bsocial-cognitive%2Bapproach%2Bto%2Bmotivation%2Band%2Bpersonality.pdf?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10049005/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10070913/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10086326/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10087030/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10136704/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10177695/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10205144/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10239723/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10359430/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10464969/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC10602615/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC11100206/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC11658661/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC11943665/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12021220/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12098809/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12366483/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12504522/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12588926/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12867822/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC12872826/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC3083636/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC3328863/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC3907379/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4061095/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4061095/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4359724/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4369454/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4658242/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4689589/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4689589/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4721380/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC4920136/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC5070217/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC5141652/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC5987671/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6040729/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6125391/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6143989/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6379460/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6494390/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC6878228/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC7056901/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC7500058/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC7671960/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC7785729/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8009390/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8344175/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8383463/> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8383463/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8391232/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8391232/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8460848/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8542725/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8795067/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC8847795/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9368400/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9527673/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9819141/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9840507/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9840507/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9857662/> — `research:1`
+- <https://pmc.ncbi.nlm.nih.gov/articles/PMC9907794/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/10617523/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/10620383/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/16881773/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/17201571/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/23070875/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/24936656/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/25939016/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/26801998/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/28504540/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/29331596/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/32138802/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/32718164/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/34264703/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/37229393/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/38755730/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/41362134/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/41540025/> — `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/6029715/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/6029715/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/6032570/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/6032570/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/7441483/> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://pubmed.ncbi.nlm.nih.gov/7441483/?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://pubmed.ncbi.nlm.nih.gov/847061/> — `research:1`
+- <https://scispace.com/papers/learned-helplessness-in-humans-critique-and-reformulation-2rd907yu3x> — `conversation.safe_urls`, `message:4:metadata`
+- <https://search.pdh.ebscohost.com/login.aspx?AN=1975-10978-001&asa=N&authtype=crawler&crl=c&db=pdh&direct=true&h=neAfMjokhrH2Km%2FglaZIvxA0pB1BGqUv4TArG%2BabLzaF6LstRcBtijaVUkcnIvv3bLq0G3Z9GFvvKUfNFGwcyg%3D%3D&jrnl=00223514&profile=ehost&scope=site> — `conversation.safe_urls`, `message:4:metadata`
+- <https://vawnet.org/sites/default/files/materials/files/2016-09/AR_BWSCritique.pdf> — `conversation.safe_urls`, `message:4:metadata`
+- <https://vawnet.org/sites/default/files/materials/files/2016-09/AR_BWSCritique.pdf?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.abct.org/fact-sheets/behavioral-activation/> — `conversation.safe_urls`, `message:7:metadata`
+- <https://www.apa.org/independent-review/apa-final-report-7.2.15.pdf> — `research:1`
+- <https://www.apa.org/news/press/cia-interrogation> — `research:1`
+- <https://www.apple.com/> — `conversation.safe_urls`
+- <https://www.cdc.gov/niosh/bulletin/2024/workplace-psychosocial-hazards.html> — `research:1`
+- <https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2023.1170417/full> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.healthquality.va.gov/guidelines/mh/ptsd/> — `research:1`
+- <https://www.intelligence.senate.gov/wp-content/uploads/2024/08/sites-default-files-press-findings-and-conclusions.pdf> — `research:1`
+- <https://www.its.caltech.edu/~squartz/Tangney.pdf> — `conversation.safe_urls`, `message:7:metadata`
+- <https://www.nature.com/articles/s41398-025-03786-6> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://www.nature.com/articles/tp201259> — `research:1`
+- <https://www.newyorker.com/science/maria-konnikova/theory-psychology-justified-torture> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.newyorker.com/science/maria-konnikova/theory-psychology-justified-torture?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.nice.org.uk/guidance/ng222/chapter/Recommendations> — `research:1`
+- <https://www.nice.org.uk/guidance/ng222/chapter/recommendations> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.nice.org.uk/guidance/ng87> — `research:1`
+- <https://www.nice.org.uk/guidance/ng87/chapter/Recommendations> — `research:1`
+- <https://www.openai.com> — `conversation.safe_urls`
+- <https://www.progressive.com> — `conversation.safe_urls`
+- <https://www.ptsd.va.gov/professional/treat/txessentials/cpg_ptsd_management.asp> — `research:1`
+- <https://www.ptsd.va.gov/professional/treat/txessentials/overview_therapy.asp> — `conversation.safe_urls`, `message:4:metadata`, `research:1`
+- <https://www.sciencedirect.com/science/article/pii/0146640278900024> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.sciencedirect.com/science/article/pii/0146640278900024?utm_source=chatgpt.com> — `conversation.safe_urls`, `message:4:metadata`
+- <https://www.statefarm.com> — `conversation.safe_urls`

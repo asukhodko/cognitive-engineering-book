@@ -1,6 +1,9 @@
 # Keep text files with LF line endings in both Windows Git and WSL Git.
 * text=auto eol=lf
 
+# Extracted conversations preserve source Markdown hard breaks encoded as two spaces.
+"Материалы к следующей версии/Беседы ChatGPT/*/01-Извлеченная-беседа.md" whitespace=-trailing-space
+
 # Do not normalize common binary artifacts.
 *.png binary
 *.jpg binary
