@@ -43,13 +43,19 @@
 
 ## Извлечение ChatGPT Share
 
+Полная самодостаточная инструкция: [`Инструменты/README.md`](Инструменты/README.md).
+
 Публичную shared-беседу можно выгрузить без системного браузера:
 
 ```bash
 make extract-chatgpt CHATGPT_SHARE_URL="https://chatgpt.com/share/<share-id>"
 ```
 
-Утилита сначала пробует публичный `backend-api/share/<id>`, затем скачивает HTML и декодирует сериализованный React Router/RSC payload без исполнения JavaScript. В режиме `auto` она перебирает direct-доступ, значения из `CHATGPT_SHARE_PROXIES` и loopback proxy-кандидат. Нелокальные маршруты намеренно не зашиты в репозиторий. Явный маршрут и каталог можно задать напрямую:
+Утилита сначала пробует публичный `backend-api/share/<id>`, затем скачивает HTML и декодирует сериализованный React Router/RSC payload без исполнения JavaScript. В режиме `auto` маршруты идут в таком порядке: `CHATGPT_SHARE_PROXIES`, локальный proxy-файл, стандартные `HTTPS_PROXY` / `ALL_PROXY` / `HTTP_PROXY`, direct-доступ и loopback proxy-кандидаты. Повторы удаляются с сохранением порядка.
+
+Постоянный локальный маршрут следует хранить вне Git в `${XDG_CONFIG_HOME:-$HOME/.config}/cognitive-engineering-book/chatgpt-share-proxies`: один `http://` или `https://` proxy URL на строку, пустые строки и строки, начинающиеся с `#`, игнорируются. Каталогу рекомендуется mode `0700`, файлу `0600`, поскольку proxy URL может содержать credentials. Другой файл можно выбрать через `CHATGPT_SHARE_PROXY_FILE`; явно указанный, но отсутствующий файл считается ошибкой. Нелокальные маршруты намеренно не зашиты в репозиторий.
+
+Явный маршрут и каталог можно задать напрямую:
 
 ```bash
 python3 "Инструменты/extract_chatgpt_share.py" \

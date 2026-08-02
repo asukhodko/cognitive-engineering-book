@@ -31,10 +31,20 @@ USER_AGENT = (
 DEFAULT_WORKSPACE_PROXIES = (
     "http://127.0.0.1:8899",
 )
+PROXY_CONFIG_SUBPATH = Path("cognitive-engineering-book") / "chatgpt-share-proxies"
+STANDARD_PROXY_ENVIRONMENT = (
+    "HTTPS_PROXY",
+    "https_proxy",
+    "ALL_PROXY",
+    "all_proxy",
+    "HTTP_PROXY",
+    "http_proxy",
+)
 DEFAULT_SHARE_LIMIT = 64 * 1024 * 1024
 DEFAULT_FILE_LIMIT = 100 * 1024 * 1024
 RSC_MARKER = "window.__reactRouterContext.streamController.enqueue("
 URL_RE = re.compile(r"https?://[^\s<>\"'`]+", flags=re.IGNORECASE)
+URL_CREDENTIALS_RE = re.compile(r"\b(https?://)[^/\s@]+@", flags=re.IGNORECASE)
 MARKDOWN_LINK_RE = re.compile(r"\[([^\]]+)\]\((https?://[^)]+)\)", flags=re.IGNORECASE)
 FILE_LINK_LABEL_RE = re.compile(
     r"(?:download|file|report|research|artifact|скачать|файл|отч[её]т|исследован|"
@@ -260,18 +270,69 @@ def redact_proxy(value: str) -> str:
     return urllib.parse.urlunsplit((parsed.scheme, host, "", "", ""))
 
 
+def redact_diagnostic(value: str, route: Route | None = None) -> str:
+    if route is not None and route.proxy:
+        value = value.replace(route.proxy, redact_proxy(route.proxy))
+    return URL_CREDENTIALS_RE.sub(r"\1", value)
+
+
 def _split_proxy_values(value: str | None) -> list[str]:
     if not value:
         return []
     return [item for item in re.split(r"[,;\s]+", value) if item]
 
 
+def default_proxy_config_path() -> Path:
+    configured_root = os.environ.get("XDG_CONFIG_HOME", "").strip()
+    root = Path(configured_root).expanduser() if configured_root else Path.home() / ".config"
+    if not root.is_absolute():
+        root = Path.home() / ".config"
+    return root / PROXY_CONFIG_SUBPATH
+
+
+def _proxy_config_path() -> tuple[Path, bool]:
+    override = os.environ.get("CHATGPT_SHARE_PROXY_FILE", "").strip()
+    if override:
+        return Path(override).expanduser(), True
+    return default_proxy_config_path(), False
+
+
+def _read_proxy_file(path: Path, *, required: bool) -> list[str]:
+    try:
+        content = path.read_text(encoding="utf-8-sig")
+    except FileNotFoundError:
+        if required:
+            raise ExtractionError(f"proxy config file does not exist: {path}")
+        return []
+    except UnicodeDecodeError as exc:
+        raise ExtractionError(f"proxy config file is not valid UTF-8: {path}") from exc
+    except OSError as exc:
+        detail = exc.strerror or type(exc).__name__
+        raise ExtractionError(f"could not read proxy config file {path}: {detail}") from exc
+
+    return [
+        line.strip()
+        for line in content.splitlines()
+        if line.strip() and not line.lstrip().startswith("#")
+    ]
+
+
+def _auto_proxy_values() -> list[str]:
+    values = _split_proxy_values(os.environ.get("CHATGPT_SHARE_PROXIES"))
+    config_path, required = _proxy_config_path()
+    values.extend(_read_proxy_file(config_path, required=required))
+    for name in STANDARD_PROXY_ENVIRONMENT:
+        values.extend(_split_proxy_values(os.environ.get(name)))
+    return values
+
+
 def build_routes(explicit: list[str] | None) -> list[Route]:
     values = list(explicit or ["auto"])
     expanded: list[str] = []
     for value in values:
-        if value == "auto":
-            expanded.extend(_split_proxy_values(os.environ.get("CHATGPT_SHARE_PROXIES")))
+        value = value.strip()
+        if value.casefold() == "auto":
+            expanded.extend(_auto_proxy_values())
             expanded.append("direct")
             expanded.extend(DEFAULT_WORKSPACE_PROXIES)
         else:
@@ -280,13 +341,18 @@ def build_routes(explicit: list[str] | None) -> list[Route]:
     routes: list[Route] = []
     seen: set[str] = set()
     for value in expanded:
-        if value in {"", "none", "direct"}:
+        value = value.strip()
+        if value.casefold() in {"", "none", "direct"}:
             key = "direct"
             route = Route(label="direct", proxy=None)
         else:
             parsed = urllib.parse.urlsplit(value)
-            if parsed.scheme not in {"http", "https"} or not parsed.hostname:
-                raise ExtractionError(f"unsupported proxy URL: {value}")
+            try:
+                parsed.port
+            except ValueError as exc:
+                raise ExtractionError("invalid proxy URL in route configuration") from exc
+            if parsed.scheme.casefold() not in {"http", "https"} or not parsed.hostname:
+                raise ExtractionError("unsupported proxy URL in route configuration")
             key = value.rstrip("/")
             route = Route(label=f"proxy:{redact_proxy(value)}", proxy=value)
         if key not in seen:
@@ -360,7 +426,7 @@ def http_get(
             headers={},
             body=b"",
             final_url=url,
-            error=f"{type(exc).__name__}: {exc}",
+            error=redact_diagnostic(f"{type(exc).__name__}: {exc}", route),
         )
 
     try:
@@ -374,7 +440,7 @@ def http_get(
             headers={},
             body=b"",
             final_url=response.geturl(),
-            error=f"{type(exc).__name__}: {exc}",
+            error=redact_diagnostic(f"{type(exc).__name__}: {exc}", route),
         )
     finally:
         response.close()
@@ -1081,11 +1147,18 @@ def _safe_public_download_url(value: str) -> bool:
 def _candidate_urls(candidate: FileCandidate) -> list[str]:
     locator = candidate.locator
     if locator.startswith("file-service://"):
-        file_id = locator.removeprefix("file-service://").strip("/")
+        parsed = urllib.parse.urlsplit(locator)
+        file_id = (parsed.netloc or parsed.path).strip("/")
+        if not file_id:
+            return []
         encoded = urllib.parse.quote(file_id, safe="")
+        query = urllib.parse.urlencode(
+            urllib.parse.parse_qsl(parsed.query, keep_blank_values=True)
+        )
+        suffix = f"?{query}" if query else ""
         return [
-            f"https://chatgpt.com/backend-api/files/{encoded}/download",
-            f"https://chatgpt.com/backend-api/files/{encoded}",
+            f"https://chatgpt.com/backend-api/files/{encoded}/download{suffix}",
+            f"https://chatgpt.com/backend-api/files/{encoded}{suffix}",
         ]
     if locator.startswith(("sandbox:/", "sandbox://", "attachment://")):
         return []
@@ -1490,7 +1563,7 @@ def build_parser() -> argparse.ArgumentParser:
         action="append",
         help=(
             "network route; repeat to define fallback order. Use 'direct' for no proxy or "
-            "'auto' for environment, direct, and workspace proxy candidates"
+            "'auto' for configured, environment, direct, and loopback proxy candidates"
         ),
     )
     parser.add_argument("--timeout", type=float, default=45.0, help="per-request timeout")

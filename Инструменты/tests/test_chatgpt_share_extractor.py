@@ -146,6 +146,86 @@ class ShareUrlTests(unittest.TestCase):
         )
         self.assertEqual([route.label for route in routes], ["direct", "proxy:http://192.0.2.10:8080"])
 
+    def test_network_diagnostics_redact_proxy_credentials(self) -> None:
+        route = extractor.Route(
+            label="proxy:http://192.0.2.10:8080",
+            proxy="http://user:secret@192.0.2.10:8080",
+        )
+        diagnostic = extractor.redact_diagnostic(
+            "URLError via http://user:secret@192.0.2.10:8080",
+            route,
+        )
+        self.assertEqual(diagnostic, "URLError via http://192.0.2.10:8080")
+        self.assertNotIn("user", diagnostic)
+        self.assertNotIn("secret", diagnostic)
+
+    def test_auto_routes_use_xdg_config_and_standard_environment_in_order(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            config = (
+                Path(temporary)
+                / "cognitive-engineering-book"
+                / "chatgpt-share-proxies"
+            )
+            config.parent.mkdir()
+            config.write_text(
+                "# local route\nhttp://config-proxy.example:8080\n\n",
+                encoding="utf-8",
+            )
+            environment = {
+                "XDG_CONFIG_HOME": temporary,
+                "CHATGPT_SHARE_PROXIES": "http://preferred.example:8080",
+                "HTTPS_PROXY": "http://environment.example:8080",
+            }
+            with mock.patch.dict(extractor.os.environ, environment, clear=True):
+                routes = extractor.build_routes(None)
+
+        self.assertEqual(
+            [route.label for route in routes],
+            [
+                "proxy:http://preferred.example:8080",
+                "proxy:http://config-proxy.example:8080",
+                "proxy:http://environment.example:8080",
+                "direct",
+                "proxy:http://127.0.0.1:8899",
+            ],
+        )
+
+    def test_proxy_file_override_replaces_xdg_default_and_deduplicates(self) -> None:
+        with tempfile.TemporaryDirectory() as temporary:
+            root = Path(temporary)
+            default_config = (
+                root / "cognitive-engineering-book" / "chatgpt-share-proxies"
+            )
+            default_config.parent.mkdir()
+            default_config.write_text("http://unused.example:8080\n", encoding="utf-8")
+            override = root / "override-proxies"
+            override.write_text(
+                "  # comment\nhttp://chosen.example:8080\nhttp://chosen.example:8080/\n",
+                encoding="utf-8",
+            )
+            environment = {
+                "XDG_CONFIG_HOME": temporary,
+                "CHATGPT_SHARE_PROXY_FILE": str(override),
+                "HTTPS_PROXY": "http://chosen.example:8080",
+            }
+            with mock.patch.dict(extractor.os.environ, environment, clear=True):
+                routes = extractor.build_routes(None)
+
+        self.assertEqual(
+            [route.label for route in routes],
+            [
+                "proxy:http://chosen.example:8080",
+                "direct",
+                "proxy:http://127.0.0.1:8899",
+            ],
+        )
+
+    def test_missing_explicit_proxy_file_is_an_error(self) -> None:
+        environment = {"CHATGPT_SHARE_PROXY_FILE": "/missing/proxy-list"}
+        with mock.patch.dict(extractor.os.environ, environment, clear=True):
+            with self.assertRaisesRegex(extractor.ExtractionError, "does not exist"):
+                extractor.build_routes(None)
+
 
 class RscTests(unittest.TestCase):
     def test_decode_split_rsc_reference_pool(self) -> None:
@@ -206,6 +286,40 @@ class FetchFlowTests(unittest.TestCase):
         self.assertEqual(fetched.data["title"], "Fallback RSC")
         self.assertEqual(get.call_count, 2)
 
+    def test_next_route_is_used_after_both_endpoints_return_403(self) -> None:
+        forbidden = extractor.HttpResult(
+            status=403,
+            content_type="text/html",
+            headers={},
+            body=b"forbidden",
+            final_url="https://chatgpt.com/share/test-id",
+        )
+        success = extractor.HttpResult(
+            status=200,
+            content_type="text/html",
+            headers={},
+            body=synthetic_rsc_page("Second route RSC"),
+            final_url="https://chatgpt.com/share/test-id",
+        )
+        routes = [
+            extractor.Route(label="direct", proxy=None),
+            extractor.Route(label="proxy:http://proxy.example:8080", proxy="http://proxy.example:8080"),
+        ]
+        with mock.patch.object(
+            extractor,
+            "http_get",
+            side_effect=[forbidden, forbidden, forbidden, success],
+        ) as get:
+            fetched = extractor.fetch_shared_conversation(
+                "https://chatgpt.com/share/test-id",
+                routes,
+            )
+
+        self.assertEqual(fetched.method, "html-rsc")
+        self.assertEqual(fetched.route, routes[1])
+        self.assertEqual(fetched.data["title"], "Second route RSC")
+        self.assertEqual(get.call_count, 4)
+
 
 class ContentTests(unittest.TestCase):
     def setUp(self) -> None:
@@ -243,6 +357,29 @@ class ContentTests(unittest.TestCase):
         self.assertFalse(extractor._safe_public_download_url("http://127.0.0.1/file.pdf"))
         self.assertFalse(extractor._safe_public_download_url("http://192.168.1.5/file.pdf"))
         self.assertTrue(extractor._safe_public_download_url("https://example.org/file.pdf"))
+
+    def test_file_service_query_is_preserved_outside_file_id(self) -> None:
+        candidate = extractor.FileCandidate(
+            locator=(
+                "file-service://file-test"
+                "?shared_conversation_id=share-test"
+            ),
+            source="message:1:metadata",
+            kind="file-id",
+        )
+        self.assertEqual(
+            extractor._candidate_urls(candidate),
+            [
+                (
+                    "https://chatgpt.com/backend-api/files/file-test/download"
+                    "?shared_conversation_id=share-test"
+                ),
+                (
+                    "https://chatgpt.com/backend-api/files/file-test"
+                    "?shared_conversation_id=share-test"
+                ),
+            ],
+        )
 
     def test_export_writes_manifest_without_raw_hidden_messages(self) -> None:
         fetched = extractor.FetchedShare(
